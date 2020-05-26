@@ -1,0 +1,1433 @@
+UNIQUE_CARRIER_NAME,YEAR,MONTH,DAY,DATE_JOIN,PASSENGERS
+Alaska Airlines Inc.,2005,1,1,2005/1/1,1045007
+Alaska Airlines Inc.,2005,2,1,2005/2/1,1000146
+Alaska Airlines Inc.,2005,3,1,2005/3/1,1236977
+Alaska Airlines Inc.,2005,4,1,2005/4/1,1171204
+Alaska Airlines Inc.,2005,5,1,2005/5/1,1191795
+Alaska Airlines Inc.,2005,6,1,2005/6/1,1353547
+Alaska Airlines Inc.,2005,7,1,2005/7/1,1459933
+Alaska Airlines Inc.,2005,8,1,2005/8/1,1469421
+Alaska Airlines Inc.,2005,9,1,2005/9/1,1198492
+Alaska Airlines Inc.,2005,10,1,2005/10/1,1144281
+Alaska Airlines Inc.,2005,11,1,2005/11/1,1148177
+Alaska Airlines Inc.,2005,12,1,2005/12/1,1184567
+Alaska Airlines Inc.,2006,1,1,2006/1/1,1022381
+Alaska Airlines Inc.,2006,2,1,2006/2/1,1011880
+Alaska Airlines Inc.,2006,3,1,2006/3/1,1232093
+Alaska Airlines Inc.,2006,4,1,2006/4/1,1202386
+Alaska Airlines Inc.,2006,5,1,2006/5/1,1267880
+Alaska Airlines Inc.,2006,6,1,2006/6/1,1414339
+Alaska Airlines Inc.,2006,7,1,2006/7/1,1496890
+Alaska Airlines Inc.,2006,8,1,2006/8/1,1492458
+Alaska Airlines Inc.,2006,9,1,2006/9/1,1226815
+Alaska Airlines Inc.,2006,10,1,2006/10/1,1179305
+Alaska Airlines Inc.,2006,11,1,2006/11/1,1168997
+Alaska Airlines Inc.,2006,12,1,2006/12/1,1200698
+Alaska Airlines Inc.,2007,1,1,2007/1/1,1013129
+Alaska Airlines Inc.,2007,2,1,2007/2/1,1002357
+Alaska Airlines Inc.,2007,3,1,2007/3/1,1223926
+Alaska Airlines Inc.,2007,4,1,2007/4/1,1230293
+Alaska Airlines Inc.,2007,5,1,2007/5/1,1355171
+Alaska Airlines Inc.,2007,6,1,2007/6/1,1482679
+Alaska Airlines Inc.,2007,7,1,2007/7/1,1564123
+Alaska Airlines Inc.,2007,8,1,2007/8/1,1580023
+Alaska Airlines Inc.,2007,9,1,2007/9/1,1252138
+Alaska Airlines Inc.,2007,10,1,2007/10/1,1206106
+Alaska Airlines Inc.,2007,11,1,2007/11/1,1195991
+Alaska Airlines Inc.,2007,12,1,2007/12/1,1222892
+Alaska Airlines Inc.,2008,1,1,2008/1/1,1052298
+Alaska Airlines Inc.,2008,2,1,2008/2/1,1091220
+Alaska Airlines Inc.,2008,3,1,2008/3/1,1309991
+Alaska Airlines Inc.,2008,4,1,2008/4/1,1212513
+Alaska Airlines Inc.,2008,5,1,2008/5/1,1300750
+Alaska Airlines Inc.,2008,6,1,2008/6/1,1388944
+Alaska Airlines Inc.,2008,7,1,2008/7/1,1471307
+Alaska Airlines Inc.,2008,8,1,2008/8/1,1475158
+Alaska Airlines Inc.,2008,9,1,2008/9/1,1197533
+Alaska Airlines Inc.,2008,10,1,2008/10/1,1165588
+Alaska Airlines Inc.,2008,11,1,2008/11/1,1079923
+Alaska Airlines Inc.,2008,12,1,2008/12/1,1119377
+Alaska Airlines Inc.,2009,1,1,2009/1/1,976024
+Alaska Airlines Inc.,2009,2,1,2009/2/1,949449
+Alaska Airlines Inc.,2009,3,1,2009/3/1,1178802
+Alaska Airlines Inc.,2009,4,1,2009/4/1,1125225
+Alaska Airlines Inc.,2009,5,1,2009/5/1,1192854
+Alaska Airlines Inc.,2009,6,1,2009/6/1,1291148
+Alaska Airlines Inc.,2009,7,1,2009/7/1,1405634
+Alaska Airlines Inc.,2009,8,1,2009/8/1,1397167
+Alaska Airlines Inc.,2009,9,1,2009/9/1,1155457
+Alaska Airlines Inc.,2009,10,1,2009/10/1,1147646
+Alaska Airlines Inc.,2009,11,1,2009/11/1,1083804
+Alaska Airlines Inc.,2009,12,1,2009/12/1,1157399
+Alaska Airlines Inc.,2010,1,1,2010/1/1,1027756
+Alaska Airlines Inc.,2010,2,1,2010/2/1,965466
+Alaska Airlines Inc.,2010,3,1,2010/3/1,1192858
+Alaska Airlines Inc.,2010,4,1,2010/4/1,1147916
+Alaska Airlines Inc.,2010,5,1,2010/5/1,1232327
+Alaska Airlines Inc.,2010,6,1,2010/6/1,1387089
+Alaska Airlines Inc.,2010,7,1,2010/7/1,1503399
+Alaska Airlines Inc.,2010,8,1,2010/8/1,1484975
+Alaska Airlines Inc.,2010,9,1,2010/9/1,1241496
+Alaska Airlines Inc.,2010,10,1,2010/10/1,1235167
+Alaska Airlines Inc.,2010,11,1,2010/11/1,1207622
+Alaska Airlines Inc.,2010,12,1,2010/12/1,1275042
+Alaska Airlines Inc.,2011,1,1,2011/1/1,1158240
+Alaska Airlines Inc.,2011,2,1,2011/2/1,1098790
+Alaska Airlines Inc.,2011,3,1,2011/3/1,1359852
+Alaska Airlines Inc.,2011,4,1,2011/4/1,1293312
+Alaska Airlines Inc.,2011,5,1,2011/5/1,1338067
+Alaska Airlines Inc.,2011,6,1,2011/6/1,1449149
+Alaska Airlines Inc.,2011,7,1,2011/7/1,1548863
+Alaska Airlines Inc.,2011,8,1,2011/8/1,1556831
+Alaska Airlines Inc.,2011,9,1,2011/9/1,1326027
+Alaska Airlines Inc.,2011,10,1,2011/10/1,1283512
+Alaska Airlines Inc.,2011,11,1,2011/11/1,1277199
+Alaska Airlines Inc.,2011,12,1,2011/12/1,1313181
+Alaska Airlines Inc.,2012,1,1,2012/1/1,1189120
+Alaska Airlines Inc.,2012,2,1,2012/2/1,1184002
+Alaska Airlines Inc.,2012,3,1,2012/3/1,1395192
+Alaska Airlines Inc.,2012,4,1,2012/4/1,1343894
+Alaska Airlines Inc.,2012,5,1,2012/5/1,1425214
+Alaska Airlines Inc.,2012,6,1,2012/6/1,1544264
+Alaska Airlines Inc.,2012,7,1,2012/7/1,1631567
+Alaska Airlines Inc.,2012,8,1,2012/8/1,1624962
+Alaska Airlines Inc.,2012,9,1,2012/9/1,1351466
+Alaska Airlines Inc.,2012,10,1,2012/10/1,1342522
+Alaska Airlines Inc.,2012,11,1,2012/11/1,1353133
+Alaska Airlines Inc.,2012,12,1,2012/12/1,1385873
+Alaska Airlines Inc.,2013,1,1,2013/1/1,1318038
+Alaska Airlines Inc.,2013,2,1,2013/2/1,1229310
+Alaska Airlines Inc.,2013,3,1,2013/3/1,1502111
+Alaska Airlines Inc.,2013,4,1,2013/4/1,1450025
+Alaska Airlines Inc.,2013,5,1,2013/5/1,1518049
+Alaska Airlines Inc.,2013,6,1,2013/6/1,1641806
+Alaska Airlines Inc.,2013,7,1,2013/7/1,1763902
+Alaska Airlines Inc.,2013,8,1,2013/8/1,1741474
+Alaska Airlines Inc.,2013,9,1,2013/9/1,1427030
+Alaska Airlines Inc.,2013,10,1,2013/10/1,1427743
+Alaska Airlines Inc.,2013,11,1,2013/11/1,1368056
+Alaska Airlines Inc.,2013,12,1,2013/12/1,1502275
+Alaska Airlines Inc.,2014,1,1,2014/1/1,1366918
+Alaska Airlines Inc.,2014,2,1,2014/2/1,1301577
+Alaska Airlines Inc.,2014,3,1,2014/3/1,1564014
+Alaska Airlines Inc.,2014,4,1,2014/4/1,1514463
+Alaska Airlines Inc.,2014,5,1,2014/5/1,1579455
+Alaska Airlines Inc.,2014,6,1,2014/6/1,1731541
+Alaska Airlines Inc.,2014,7,1,2014/7/1,1891590
+Alaska Airlines Inc.,2014,8,1,2014/8/1,1890595
+Alaska Airlines Inc.,2014,9,1,2014/9/1,1559320
+Alaska Airlines Inc.,2014,10,1,2014/10/1,1578922
+Alaska Airlines Inc.,2014,11,1,2014/11/1,1532132
+Alaska Airlines Inc.,2014,12,1,2014/12/1,1663710
+Alaska Airlines Inc.,2015,1,1,2015/1/1,1531097
+Alaska Airlines Inc.,2015,2,1,2015/2/1,1469756
+Alaska Airlines Inc.,2015,3,1,2015/3/1,1800806
+Alaska Airlines Inc.,2015,4,1,2015/4/1,1704477
+Alaska Airlines Inc.,2015,5,1,2015/5/1,1809795
+Alaska Airlines Inc.,2015,6,1,2015/6/1,1912907
+Alaska Airlines Inc.,2015,7,1,2015/7/1,2063454
+Alaska Airlines Inc.,2015,8,1,2015/8/1,2070241
+Alaska Airlines Inc.,2015,9,1,2015/9/1,1732801
+Alaska Airlines Inc.,2015,10,1,2015/10/1,1750680
+Alaska Airlines Inc.,2015,11,1,2015/11/1,1699499
+Alaska Airlines Inc.,2015,12,1,2015/12/1,1801246
+Alaska Airlines Inc.,2016,1,1,2016/1/1,1648125
+Alaska Airlines Inc.,2016,2,1,2016/2/1,1591771
+Alaska Airlines Inc.,2016,3,1,2016/3/1,1920304
+Alaska Airlines Inc.,2016,4,1,2016/4/1,1854940
+Alaska Airlines Inc.,2016,5,1,2016/5/1,1963925
+Alaska Airlines Inc.,2016,6,1,2016/6/1,2044525
+Alaska Airlines Inc.,2016,7,1,2016/7/1,2143182
+Alaska Airlines Inc.,2016,8,1,2016/8/1,2171802
+Alaska Airlines Inc.,2016,9,1,2016/9/1,1806027
+Alaska Airlines Inc.,2016,10,1,2016/10/1,1803881
+Alaska Airlines Inc.,2016,11,1,2016/11/1,1824155
+Alaska Airlines Inc.,2016,12,1,2016/12/1,1870079
+Alaska Airlines Inc.,2017,1,1,2017/1/1,1733183
+Alaska Airlines Inc.,2017,2,1,2017/2/1,1626403
+Alaska Airlines Inc.,2017,3,1,2017/3/1,2041671
+Alaska Airlines Inc.,2017,4,1,2017/4/1,2017188
+Alaska Airlines Inc.,2017,5,1,2017/5/1,2126031
+Alaska Airlines Inc.,2017,6,1,2017/6/1,2168350
+Alaska Airlines Inc.,2017,7,1,2017/7/1,2272731
+Alaska Airlines Inc.,2017,8,1,2017/8/1,2250831
+Alaska Airlines Inc.,2017,9,1,2017/9/1,1950032
+Alaska Airlines Inc.,2017,10,1,2017/10/1,1961024
+Alaska Airlines Inc.,2017,11,1,2017/11/1,1933213
+Alaska Airlines Inc.,2017,12,1,2017/12/1,2008501
+Alaska Airlines Inc.,2018,1,1,2018/1/1,1775288
+Alaska Airlines Inc.,2018,2,1,2018/2/1,1747293
+Alaska Airlines Inc.,2018,3,1,2018/3/1,2099853
+Alaska Airlines Inc.,2018,4,1,2018/4/1,2832507
+Alaska Airlines Inc.,2018,5,1,2018/5/1,2998056
+Alaska Airlines Inc.,2018,6,1,2018/6/1,3100281
+Alaska Airlines Inc.,2018,7,1,2018/7/1,3230012
+Alaska Airlines Inc.,2018,8,1,2018/8/1,3099858
+Alaska Airlines Inc.,2018,9,1,2018/9/1,2643019
+Alaska Airlines Inc.,2018,10,1,2018/10/1,2746906
+Alaska Airlines Inc.,2018,11,1,2018/11/1,2636996
+Alaska Airlines Inc.,2018,12,1,2018/12/1,2614164
+Alaska Airlines Inc.,2019,1,1,2019/1/1,2366341
+Alaska Airlines Inc.,2019,2,1,2019/2/1,2209759
+Alaska Airlines Inc.,2019,3,1,2019/3/1,2763699
+Alaska Airlines Inc.,2019,4,1,2019/4/1,2718666
+Alaska Airlines Inc.,2019,5,1,2019/5/1,2942470
+Alaska Airlines Inc.,2019,6,1,2019/6/1,3087747
+Alaska Airlines Inc.,2019,7,1,2019/7/1,3262084
+Alaska Airlines Inc.,2019,8,1,2019/8/1,3223327
+Alaska Airlines Inc.,2019,9,1,2019/9/1,2786355
+Alaska Airlines Inc.,2019,10,1,2019/10/1,2819829
+Alaska Airlines Inc.,2019,11,1,2019/11/1,2615877
+American Airlines Inc.,2005,1,1,2005/1/1,5784397
+American Airlines Inc.,2005,2,1,2005/2/1,5475154
+American Airlines Inc.,2005,3,1,2005/3/1,6838822
+American Airlines Inc.,2005,4,1,2005/4/1,6419180
+American Airlines Inc.,2005,5,1,2005/5/1,6692714
+American Airlines Inc.,2005,6,1,2005/6/1,7070922
+American Airlines Inc.,2005,7,1,2005/7/1,7367486
+American Airlines Inc.,2005,8,1,2005/8/1,6770842
+American Airlines Inc.,2005,9,1,2005/9/1,5906868
+American Airlines Inc.,2005,10,1,2005/10/1,6213660
+American Airlines Inc.,2005,11,1,2005/11/1,6338404
+American Airlines Inc.,2005,12,1,2005/12/1,6418518
+American Airlines Inc.,2006,1,1,2006/1/1,6071348
+American Airlines Inc.,2006,2,1,2006/2/1,5650371
+American Airlines Inc.,2006,3,1,2006/3/1,6897283
+American Airlines Inc.,2006,4,1,2006/4/1,6614216
+American Airlines Inc.,2006,5,1,2006/5/1,6804585
+American Airlines Inc.,2006,6,1,2006/6/1,6913522
+American Airlines Inc.,2006,7,1,2006/7/1,7033467
+American Airlines Inc.,2006,8,1,2006/8/1,6503729
+American Airlines Inc.,2006,9,1,2006/9/1,5676574
+American Airlines Inc.,2006,10,1,2006/10/1,6253772
+American Airlines Inc.,2006,11,1,2006/11/1,6113712
+American Airlines Inc.,2006,12,1,2006/12/1,6280870
+American Airlines Inc.,2007,1,1,2007/1/1,5912062
+American Airlines Inc.,2007,2,1,2007/2/1,5542105
+American Airlines Inc.,2007,3,1,2007/3/1,6733458
+American Airlines Inc.,2007,4,1,2007/4/1,6409373
+American Airlines Inc.,2007,5,1,2007/5/1,6681863
+American Airlines Inc.,2007,6,1,2007/6/1,6769720
+American Airlines Inc.,2007,7,1,2007/7/1,7028332
+American Airlines Inc.,2007,8,1,2007/8/1,6788645
+American Airlines Inc.,2007,9,1,2007/9/1,5864383
+American Airlines Inc.,2007,10,1,2007/10/1,6485410
+American Airlines Inc.,2007,11,1,2007/11/1,6284277
+American Airlines Inc.,2007,12,1,2007/12/1,6081786
+American Airlines Inc.,2008,1,1,2008/1/1,5852333
+American Airlines Inc.,2008,2,1,2008/2/1,5532507
+American Airlines Inc.,2008,3,1,2008/3/1,6338690
+American Airlines Inc.,2008,4,1,2008/4/1,5848693
+American Airlines Inc.,2008,5,1,2008/5/1,6492120
+American Airlines Inc.,2008,6,1,2008/6/1,6538164
+American Airlines Inc.,2008,7,1,2008/7/1,6751451
+American Airlines Inc.,2008,8,1,2008/8/1,6409204
+American Airlines Inc.,2008,9,1,2008/9/1,5244512
+American Airlines Inc.,2008,10,1,2008/10/1,5860482
+American Airlines Inc.,2008,11,1,2008/11/1,5134627
+American Airlines Inc.,2008,12,1,2008/12/1,5560880
+American Airlines Inc.,2009,1,1,2009/1/1,5047663
+American Airlines Inc.,2009,2,1,2009/2/1,4817348
+American Airlines Inc.,2009,3,1,2009/3/1,5790326
+American Airlines Inc.,2009,4,1,2009/4/1,5600348
+American Airlines Inc.,2009,5,1,2009/5/1,5659813
+American Airlines Inc.,2009,6,1,2009/6/1,5902409
+American Airlines Inc.,2009,7,1,2009/7/1,6236364
+American Airlines Inc.,2009,8,1,2009/8/1,5875741
+American Airlines Inc.,2009,9,1,2009/9/1,5072771
+American Airlines Inc.,2009,10,1,2009/10/1,5588226
+American Airlines Inc.,2009,11,1,2009/11/1,5182497
+American Airlines Inc.,2009,12,1,2009/12/1,5395288
+American Airlines Inc.,2010,1,1,2010/1/1,5072573
+American Airlines Inc.,2010,2,1,2010/2/1,4587858
+American Airlines Inc.,2010,3,1,2010/3/1,5827620
+American Airlines Inc.,2010,4,1,2010/4/1,5557142
+American Airlines Inc.,2010,5,1,2010/5/1,5669752
+American Airlines Inc.,2010,6,1,2010/6/1,5826745
+American Airlines Inc.,2010,7,1,2010/7/1,6019636
+American Airlines Inc.,2010,8,1,2010/8/1,5758764
+American Airlines Inc.,2010,9,1,2010/9/1,5123378
+American Airlines Inc.,2010,10,1,2010/10/1,5626566
+American Airlines Inc.,2010,11,1,2010/11/1,5276858
+American Airlines Inc.,2010,12,1,2010/12/1,5386868
+American Airlines Inc.,2011,1,1,2011/1/1,4985601
+American Airlines Inc.,2011,2,1,2011/2/1,4528786
+American Airlines Inc.,2011,3,1,2011/3/1,5673694
+American Airlines Inc.,2011,4,1,2011/4/1,5444341
+American Airlines Inc.,2011,5,1,2011/5/1,5620890
+American Airlines Inc.,2011,6,1,2011/6/1,5859774
+American Airlines Inc.,2011,7,1,2011/7/1,6077069
+American Airlines Inc.,2011,8,1,2011/8/1,5719077
+American Airlines Inc.,2011,9,1,2011/9/1,5280493
+American Airlines Inc.,2011,10,1,2011/10/1,5603943
+American Airlines Inc.,2011,11,1,2011/11/1,5240564
+American Airlines Inc.,2011,12,1,2011/12/1,5219210
+American Airlines Inc.,2012,1,1,2012/1/1,4998235
+American Airlines Inc.,2012,2,1,2012/2/1,4867861
+American Airlines Inc.,2012,3,1,2012/3/1,5800717
+American Airlines Inc.,2012,4,1,2012/4/1,5408427
+American Airlines Inc.,2012,5,1,2012/5/1,5810267
+American Airlines Inc.,2012,6,1,2012/6/1,5763314
+American Airlines Inc.,2012,7,1,2012/7/1,5863363
+American Airlines Inc.,2012,8,1,2012/8/1,5672532
+American Airlines Inc.,2012,9,1,2012/9/1,4930670
+American Airlines Inc.,2012,10,1,2012/10/1,5310938
+American Airlines Inc.,2012,11,1,2012/11/1,5220717
+American Airlines Inc.,2012,12,1,2012/12/1,5380057
+American Airlines Inc.,2013,1,1,2013/1/1,5197176
+American Airlines Inc.,2013,2,1,2013/2/1,4822539
+American Airlines Inc.,2013,3,1,2013/3/1,5674070
+American Airlines Inc.,2013,4,1,2013/4/1,5349805
+American Airlines Inc.,2013,5,1,2013/5/1,5661614
+American Airlines Inc.,2013,6,1,2013/6/1,5767048
+American Airlines Inc.,2013,7,1,2013/7/1,5905359
+American Airlines Inc.,2013,8,1,2013/8/1,5720139
+American Airlines Inc.,2013,9,1,2013/9/1,5006969
+American Airlines Inc.,2013,10,1,2013/10/1,5541542
+American Airlines Inc.,2013,11,1,2013/11/1,5042879
+American Airlines Inc.,2013,12,1,2013/12/1,5381059
+American Airlines Inc.,2014,1,1,2014/1/1,5223228
+American Airlines Inc.,2014,2,1,2014/2/1,4816946
+American Airlines Inc.,2014,3,1,2014/3/1,5742918
+American Airlines Inc.,2014,4,1,2014/4/1,5502126
+American Airlines Inc.,2014,5,1,2014/5/1,5767311
+American Airlines Inc.,2014,6,1,2014/6/1,5935921
+American Airlines Inc.,2014,7,1,2014/7/1,6137237
+American Airlines Inc.,2014,8,1,2014/8/1,5848830
+American Airlines Inc.,2014,9,1,2014/9/1,5165535
+American Airlines Inc.,2014,10,1,2014/10/1,5589788
+American Airlines Inc.,2014,11,1,2014/11/1,5101924
+American Airlines Inc.,2014,12,1,2014/12/1,5569744
+American Airlines Inc.,2015,1,1,2015/1/1,5140751
+American Airlines Inc.,2015,2,1,2015/2/1,4684067
+American Airlines Inc.,2015,3,1,2015/3/1,5730665
+American Airlines Inc.,2015,4,1,2015/4/1,5688706
+American Airlines Inc.,2015,5,1,2015/5/1,5704600
+American Airlines Inc.,2015,6,1,2015/6/1,5938232
+American Airlines Inc.,2015,7,1,2015/7/1,11013007
+American Airlines Inc.,2015,8,1,2015/8/1,10566185
+American Airlines Inc.,2015,9,1,2015/9/1,9409300
+American Airlines Inc.,2015,10,1,2015/10/1,10223492
+American Airlines Inc.,2015,11,1,2015/11/1,9512485
+American Airlines Inc.,2015,12,1,2015/12/1,9729320
+American Airlines Inc.,2016,1,1,2016/1/1,9046884
+American Airlines Inc.,2016,2,1,2016/2/1,8631620
+American Airlines Inc.,2016,3,1,2016/3/1,10232326
+American Airlines Inc.,2016,4,1,2016/4/1,9618310
+American Airlines Inc.,2016,5,1,2016/5/1,10288810
+American Airlines Inc.,2016,6,1,2016/6/1,10579770
+American Airlines Inc.,2016,7,1,2016/7/1,10708602
+American Airlines Inc.,2016,8,1,2016/8/1,10101378
+American Airlines Inc.,2016,9,1,2016/9/1,9227142
+American Airlines Inc.,2016,10,1,2016/10/1,9686273
+American Airlines Inc.,2016,11,1,2016/11/1,9239551
+American Airlines Inc.,2016,12,1,2016/12/1,9341353
+American Airlines Inc.,2017,1,1,2017/1/1,8852699
+American Airlines Inc.,2017,2,1,2017/2/1,8313892
+American Airlines Inc.,2017,3,1,2017/3/1,10234947
+American Airlines Inc.,2017,4,1,2017/4/1,9613362
+American Airlines Inc.,2017,5,1,2017/5/1,10144666
+American Airlines Inc.,2017,6,1,2017/6/1,10254197
+American Airlines Inc.,2017,7,1,2017/7/1,10477147
+American Airlines Inc.,2017,8,1,2017/8/1,10370074
+American Airlines Inc.,2017,9,1,2017/9/1,8857315
+American Airlines Inc.,2017,10,1,2017/10/1,10198972
+American Airlines Inc.,2017,11,1,2017/11/1,9492603
+American Airlines Inc.,2017,12,1,2017/12/1,9718443
+American Airlines Inc.,2018,1,1,2018/1/1,9031604
+American Airlines Inc.,2018,2,1,2018/2/1,8753748
+American Airlines Inc.,2018,3,1,2018/3/1,10422226
+American Airlines Inc.,2018,4,1,2018/4/1,9886272
+American Airlines Inc.,2018,5,1,2018/5/1,10363750
+American Airlines Inc.,2018,6,1,2018/6/1,10635376
+American Airlines Inc.,2018,7,1,2018/7/1,10882641
+American Airlines Inc.,2018,8,1,2018/8/1,10587114
+American Airlines Inc.,2018,9,1,2018/9/1,9015387
+American Airlines Inc.,2018,10,1,2018/10/1,10279745
+American Airlines Inc.,2018,11,1,2018/11/1,9892543
+American Airlines Inc.,2018,12,1,2018/12/1,9766868
+American Airlines Inc.,2019,1,1,2019/1/1,9548858
+American Airlines Inc.,2019,2,1,2019/2/1,9234714
+American Airlines Inc.,2019,3,1,2019/3/1,10903095
+American Airlines Inc.,2019,4,1,2019/4/1,10168108
+American Airlines Inc.,2019,5,1,2019/5/1,11012004
+American Airlines Inc.,2019,6,1,2019/6/1,10931036
+American Airlines Inc.,2019,7,1,2019/7/1,11276022
+American Airlines Inc.,2019,8,1,2019/8/1,11053259
+American Airlines Inc.,2019,9,1,2019/9/1,9974865
+American Airlines Inc.,2019,10,1,2019/10/1,10791993
+American Airlines Inc.,2019,11,1,2019/11/1,10211247
+Delta Air Lines Inc.,2005,1,1,2005/1/1,6186057
+Delta Air Lines Inc.,2005,2,1,2005/2/1,6041572
+Delta Air Lines Inc.,2005,3,1,2005/3/1,7456338
+Delta Air Lines Inc.,2005,4,1,2005/4/1,6860192
+Delta Air Lines Inc.,2005,5,1,2005/5/1,6922107
+Delta Air Lines Inc.,2005,6,1,2005/6/1,7056723
+Delta Air Lines Inc.,2005,7,1,2005/7/1,7395121
+Delta Air Lines Inc.,2005,8,1,2005/8/1,6983124
+Delta Air Lines Inc.,2005,9,1,2005/9/1,5611032
+Delta Air Lines Inc.,2005,10,1,2005/10/1,5810108
+Delta Air Lines Inc.,2005,11,1,2005/11/1,5742877
+Delta Air Lines Inc.,2005,12,1,2005/12/1,5516023
+Delta Air Lines Inc.,2006,1,1,2006/1/1,5180677
+Delta Air Lines Inc.,2006,2,1,2006/2/1,4833717
+Delta Air Lines Inc.,2006,3,1,2006/3/1,5993848
+Delta Air Lines Inc.,2006,4,1,2006/4/1,5365312
+Delta Air Lines Inc.,2006,5,1,2006/5/1,5150466
+Delta Air Lines Inc.,2006,6,1,2006/6/1,5625227
+Delta Air Lines Inc.,2006,7,1,2006/7/1,5804479
+Delta Air Lines Inc.,2006,8,1,2006/8/1,5437934
+Delta Air Lines Inc.,2006,9,1,2006/9/1,4642029
+Delta Air Lines Inc.,2006,10,1,2006/10/1,5261137
+Delta Air Lines Inc.,2006,11,1,2006/11/1,5132126
+Delta Air Lines Inc.,2006,12,1,2006/12/1,5068936
+Delta Air Lines Inc.,2007,1,1,2007/1/1,4624039
+Delta Air Lines Inc.,2007,2,1,2007/2/1,4348726
+Delta Air Lines Inc.,2007,3,1,2007/3/1,5610986
+Delta Air Lines Inc.,2007,4,1,2007/4/1,5250880
+Delta Air Lines Inc.,2007,5,1,2007/5/1,5146473
+Delta Air Lines Inc.,2007,6,1,2007/6/1,5573131
+Delta Air Lines Inc.,2007,7,1,2007/7/1,5769861
+Delta Air Lines Inc.,2007,8,1,2007/8/1,5652734
+Delta Air Lines Inc.,2007,9,1,2007/9/1,4712365
+Delta Air Lines Inc.,2007,10,1,2007/10/1,5234990
+Delta Air Lines Inc.,2007,11,1,2007/11/1,4921394
+Delta Air Lines Inc.,2007,12,1,2007/12/1,4753832
+Delta Air Lines Inc.,2008,1,1,2008/1/1,4451294
+Delta Air Lines Inc.,2008,2,1,2008/2/1,4459248
+Delta Air Lines Inc.,2008,3,1,2008/3/1,5396523
+Delta Air Lines Inc.,2008,4,1,2008/4/1,4939047
+Delta Air Lines Inc.,2008,5,1,2008/5/1,4884905
+Delta Air Lines Inc.,2008,6,1,2008/6/1,5226629
+Delta Air Lines Inc.,2008,7,1,2008/7/1,5492549
+Delta Air Lines Inc.,2008,8,1,2008/8/1,5216656
+Delta Air Lines Inc.,2008,9,1,2008/9/1,4603694
+Delta Air Lines Inc.,2008,10,1,2008/10/1,5136265
+Delta Air Lines Inc.,2008,11,1,2008/11/1,4737298
+Delta Air Lines Inc.,2008,12,1,2008/12/1,4831464
+Delta Air Lines Inc.,2009,1,1,2009/1/1,4354348
+Delta Air Lines Inc.,2009,2,1,2009/2/1,4013048
+Delta Air Lines Inc.,2009,3,1,2009/3/1,4736825
+Delta Air Lines Inc.,2009,4,1,2009/4/1,4676686
+Delta Air Lines Inc.,2009,5,1,2009/5/1,4698141
+Delta Air Lines Inc.,2009,6,1,2009/6/1,4883863
+Delta Air Lines Inc.,2009,7,1,2009/7/1,5247804
+Delta Air Lines Inc.,2009,8,1,2009/8/1,5069124
+Delta Air Lines Inc.,2009,9,1,2009/9/1,4396228
+Delta Air Lines Inc.,2009,10,1,2009/10/1,4812405
+Delta Air Lines Inc.,2009,11,1,2009/11/1,4466836
+Delta Air Lines Inc.,2009,12,1,2009/12/1,4353471
+Delta Air Lines Inc.,2010,1,1,2010/1/1,6288079
+Delta Air Lines Inc.,2010,2,1,2010/2/1,5906171
+Delta Air Lines Inc.,2010,3,1,2010/3/1,7712987
+Delta Air Lines Inc.,2010,4,1,2010/4/1,7499748
+Delta Air Lines Inc.,2010,5,1,2010/5/1,7665411
+Delta Air Lines Inc.,2010,6,1,2010/6/1,8338608
+Delta Air Lines Inc.,2010,7,1,2010/7/1,8574247
+Delta Air Lines Inc.,2010,8,1,2010/8/1,8302080
+Delta Air Lines Inc.,2010,9,1,2010/9/1,7349150
+Delta Air Lines Inc.,2010,10,1,2010/10/1,8020446
+Delta Air Lines Inc.,2010,11,1,2010/11/1,7362786
+Delta Air Lines Inc.,2010,12,1,2010/12/1,7121357
+Delta Air Lines Inc.,2011,1,1,2011/1/1,6371059
+Delta Air Lines Inc.,2011,2,1,2011/2/1,6198833
+Delta Air Lines Inc.,2011,3,1,2011/3/1,8050406
+Delta Air Lines Inc.,2011,4,1,2011/4/1,7719305
+Delta Air Lines Inc.,2011,5,1,2011/5/1,8218369
+Delta Air Lines Inc.,2011,6,1,2011/6/1,8481909
+Delta Air Lines Inc.,2011,7,1,2011/7/1,8979295
+Delta Air Lines Inc.,2011,8,1,2011/8/1,8570928
+Delta Air Lines Inc.,2011,9,1,2011/9/1,7527286
+Delta Air Lines Inc.,2011,10,1,2011/10/1,8009389
+Delta Air Lines Inc.,2011,11,1,2011/11/1,7552653
+Delta Air Lines Inc.,2011,12,1,2011/12/1,7184735
+Delta Air Lines Inc.,2012,1,1,2012/1/1,6560483
+Delta Air Lines Inc.,2012,2,1,2012/2/1,6473227
+Delta Air Lines Inc.,2012,3,1,2012/3/1,8244402
+Delta Air Lines Inc.,2012,4,1,2012/4/1,7982830
+Delta Air Lines Inc.,2012,5,1,2012/5/1,8192272
+Delta Air Lines Inc.,2012,6,1,2012/6/1,8737217
+Delta Air Lines Inc.,2012,7,1,2012/7/1,9076674
+Delta Air Lines Inc.,2012,8,1,2012/8/1,9034513
+Delta Air Lines Inc.,2012,9,1,2012/9/1,7675913
+Delta Air Lines Inc.,2012,10,1,2012/10/1,8395019
+Delta Air Lines Inc.,2012,11,1,2012/11/1,7916014
+Delta Air Lines Inc.,2012,12,1,2012/12/1,7352422
+Delta Air Lines Inc.,2013,1,1,2013/1/1,6964693
+Delta Air Lines Inc.,2013,2,1,2013/2/1,6663354
+Delta Air Lines Inc.,2013,3,1,2013/3/1,8612200
+Delta Air Lines Inc.,2013,4,1,2013/4/1,8141481
+Delta Air Lines Inc.,2013,5,1,2013/5/1,8528082
+Delta Air Lines Inc.,2013,6,1,2013/6/1,8962582
+Delta Air Lines Inc.,2013,7,1,2013/7/1,9290977
+Delta Air Lines Inc.,2013,8,1,2013/8/1,9200617
+Delta Air Lines Inc.,2013,9,1,2013/9/1,7881182
+Delta Air Lines Inc.,2013,10,1,2013/10/1,8530963
+Delta Air Lines Inc.,2013,11,1,2013/11/1,7698510
+Delta Air Lines Inc.,2013,12,1,2013/12/1,8115592
+Delta Air Lines Inc.,2014,1,1,2014/1/1,7132483
+Delta Air Lines Inc.,2014,2,1,2014/2/1,6840307
+Delta Air Lines Inc.,2014,3,1,2014/3/1,9260639
+Delta Air Lines Inc.,2014,4,1,2014/4/1,8974286
+Delta Air Lines Inc.,2014,5,1,2014/5/1,9371951
+Delta Air Lines Inc.,2014,6,1,2014/6/1,9610386
+Delta Air Lines Inc.,2014,7,1,2014/7/1,10064858
+Delta Air Lines Inc.,2014,8,1,2014/8/1,9889398
+Delta Air Lines Inc.,2014,9,1,2014/9/1,8656327
+Delta Air Lines Inc.,2014,10,1,2014/10/1,9462439
+Delta Air Lines Inc.,2014,11,1,2014/11/1,8585332
+Delta Air Lines Inc.,2014,12,1,2014/12/1,8575816
+Delta Air Lines Inc.,2015,1,1,2015/1/1,7789013
+Delta Air Lines Inc.,2015,2,1,2015/2/1,7635289
+Delta Air Lines Inc.,2015,3,1,2015/3/1,9914085
+Delta Air Lines Inc.,2015,4,1,2015/4/1,9549211
+Delta Air Lines Inc.,2015,5,1,2015/5/1,10024278
+Delta Air Lines Inc.,2015,6,1,2015/6/1,10451983
+Delta Air Lines Inc.,2015,7,1,2015/7/1,10870143
+Delta Air Lines Inc.,2015,8,1,2015/8/1,10651987
+Delta Air Lines Inc.,2015,9,1,2015/9/1,9325832
+Delta Air Lines Inc.,2015,10,1,2015/10/1,10213539
+Delta Air Lines Inc.,2015,11,1,2015/11/1,9496147
+Delta Air Lines Inc.,2015,12,1,2015/12/1,9152908
+Delta Air Lines Inc.,2016,1,1,2016/1/1,8489682
+Delta Air Lines Inc.,2016,2,1,2016/2/1,8344819
+Delta Air Lines Inc.,2016,3,1,2016/3/1,10223819
+Delta Air Lines Inc.,2016,4,1,2016/4/1,9897544
+Delta Air Lines Inc.,2016,5,1,2016/5/1,10708275
+Delta Air Lines Inc.,2016,6,1,2016/6/1,10808972
+Delta Air Lines Inc.,2016,7,1,2016/7/1,10938294
+Delta Air Lines Inc.,2016,8,1,2016/8/1,10340664
+Delta Air Lines Inc.,2016,9,1,2016/9/1,9725769
+Delta Air Lines Inc.,2016,10,1,2016/10/1,10408854
+Delta Air Lines Inc.,2016,11,1,2016/11/1,9884051
+Delta Air Lines Inc.,2016,12,1,2016/12/1,9397847
+Delta Air Lines Inc.,2017,1,1,2017/1/1,8545256
+Delta Air Lines Inc.,2017,2,1,2017/2/1,8258980
+Delta Air Lines Inc.,2017,3,1,2017/3/1,10607668
+Delta Air Lines Inc.,2017,4,1,2017/4/1,9698502
+Delta Air Lines Inc.,2017,5,1,2017/5/1,10820008
+Delta Air Lines Inc.,2017,6,1,2017/6/1,10975236
+Delta Air Lines Inc.,2017,7,1,2017/7/1,11314994
+Delta Air Lines Inc.,2017,8,1,2017/8/1,11321134
+Delta Air Lines Inc.,2017,9,1,2017/9/1,9434081
+Delta Air Lines Inc.,2017,10,1,2017/10/1,10751601
+Delta Air Lines Inc.,2017,11,1,2017/11/1,9996588
+Delta Air Lines Inc.,2017,12,1,2017/12/1,9204905
+Delta Air Lines Inc.,2018,1,1,2018/1/1,8586460
+Delta Air Lines Inc.,2018,2,1,2018/2/1,8588942
+Delta Air Lines Inc.,2018,3,1,2018/3/1,10916362
+Delta Air Lines Inc.,2018,4,1,2018/4/1,10474131
+Delta Air Lines Inc.,2018,5,1,2018/5/1,11050410
+Delta Air Lines Inc.,2018,6,1,2018/6/1,11438148
+Delta Air Lines Inc.,2018,7,1,2018/7/1,11924178
+Delta Air Lines Inc.,2018,8,1,2018/8/1,11941690
+Delta Air Lines Inc.,2018,9,1,2018/9/1,10045470
+Delta Air Lines Inc.,2018,10,1,2018/10/1,11096420
+Delta Air Lines Inc.,2018,11,1,2018/11/1,10569073
+Delta Air Lines Inc.,2018,12,1,2018/12/1,10028140
+Delta Air Lines Inc.,2019,1,1,2019/1/1,9271531
+Delta Air Lines Inc.,2019,2,1,2019/2/1,8877320
+Delta Air Lines Inc.,2019,3,1,2019/3/1,11754883
+Delta Air Lines Inc.,2019,4,1,2019/4/1,11249838
+Delta Air Lines Inc.,2019,5,1,2019/5/1,12036978
+Delta Air Lines Inc.,2019,6,1,2019/6/1,12524397
+Delta Air Lines Inc.,2019,7,1,2019/7/1,12971062
+Delta Air Lines Inc.,2019,8,1,2019/8/1,12705220
+Delta Air Lines Inc.,2019,9,1,2019/9/1,10980358
+Delta Air Lines Inc.,2019,10,1,2019/10/1,11886889
+Delta Air Lines Inc.,2019,11,1,2019/11/1,10817823
+Frontier Airlines Inc.,2005,1,1,2005/1/1,484936
+Frontier Airlines Inc.,2005,2,1,2005/2/1,468588
+Frontier Airlines Inc.,2005,3,1,2005/3/1,471350
+Frontier Airlines Inc.,2005,4,1,2005/4/1,541203
+Frontier Airlines Inc.,2005,5,1,2005/5/1,599024
+Frontier Airlines Inc.,2005,6,1,2005/6/1,659831
+Frontier Airlines Inc.,2005,7,1,2005/7/1,737564
+Frontier Airlines Inc.,2005,8,1,2005/8/1,673210
+Frontier Airlines Inc.,2005,9,1,2005/9/1,577253
+Frontier Airlines Inc.,2005,10,1,2005/10/1,612282
+Frontier Airlines Inc.,2005,11,1,2005/11/1,599706
+Frontier Airlines Inc.,2005,12,1,2005/12/1,613232
+Frontier Airlines Inc.,2006,1,1,2006/1/1,570397
+Frontier Airlines Inc.,2006,2,1,2006/2/1,570478
+Frontier Airlines Inc.,2006,3,1,2006/3/1,718281
+Frontier Airlines Inc.,2006,4,1,2006/4/1,696808
+Frontier Airlines Inc.,2006,5,1,2006/5/1,768244
+Frontier Airlines Inc.,2006,6,1,2006/6/1,815831
+Frontier Airlines Inc.,2006,7,1,2006/7/1,885281
+Frontier Airlines Inc.,2006,8,1,2006/8/1,821032
+Frontier Airlines Inc.,2006,9,1,2006/9/1,668715
+Frontier Airlines Inc.,2006,10,1,2006/10/1,729857
+Frontier Airlines Inc.,2006,11,1,2006/11/1,679335
+Frontier Airlines Inc.,2006,12,1,2006/12/1,588072
+Frontier Airlines Inc.,2007,1,1,2007/1/1,620777
+Frontier Airlines Inc.,2007,2,1,2007/2/1,625786
+Frontier Airlines Inc.,2007,3,1,2007/3/1,791766
+Frontier Airlines Inc.,2007,4,1,2007/4/1,764236
+Frontier Airlines Inc.,2007,5,1,2007/5/1,852821
+Frontier Airlines Inc.,2007,6,1,2007/6/1,915014
+Frontier Airlines Inc.,2007,7,1,2007/7/1,1014345
+Frontier Airlines Inc.,2007,8,1,2007/8/1,971436
+Frontier Airlines Inc.,2007,9,1,2007/9/1,795514
+Frontier Airlines Inc.,2007,10,1,2007/10/1,851848
+Frontier Airlines Inc.,2007,11,1,2007/11/1,791420
+Frontier Airlines Inc.,2007,12,1,2007/12/1,735337
+Frontier Airlines Inc.,2008,1,1,2008/1/1,695791
+Frontier Airlines Inc.,2008,2,1,2008/2/1,701817
+Frontier Airlines Inc.,2008,3,1,2008/3/1,871466
+Frontier Airlines Inc.,2008,4,1,2008/4/1,822681
+Frontier Airlines Inc.,2008,5,1,2008/5/1,900761
+Frontier Airlines Inc.,2008,6,1,2008/6/1,960551
+Frontier Airlines Inc.,2008,7,1,2008/7/1,1049121
+Frontier Airlines Inc.,2008,8,1,2008/8/1,992584
+Frontier Airlines Inc.,2008,9,1,2008/9/1,793055
+Frontier Airlines Inc.,2008,10,1,2008/10/1,820198
+Frontier Airlines Inc.,2008,11,1,2008/11/1,730785
+Frontier Airlines Inc.,2008,12,1,2008/12/1,757593
+Frontier Airlines Inc.,2009,1,1,2009/1/1,650889
+Frontier Airlines Inc.,2009,2,1,2009/2/1,621662
+Frontier Airlines Inc.,2009,3,1,2009/3/1,751439
+Frontier Airlines Inc.,2009,4,1,2009/4/1,732015
+Frontier Airlines Inc.,2009,5,1,2009/5/1,814780
+Frontier Airlines Inc.,2009,6,1,2009/6/1,877781
+Frontier Airlines Inc.,2009,7,1,2009/7/1,943298
+Frontier Airlines Inc.,2009,8,1,2009/8/1,900074
+Frontier Airlines Inc.,2009,9,1,2009/9/1,774312
+Frontier Airlines Inc.,2009,10,1,2009/10/1,768764
+Frontier Airlines Inc.,2009,11,1,2009/11/1,629097
+Frontier Airlines Inc.,2009,12,1,2009/12/1,609196
+Frontier Airlines Inc.,2010,1,1,2010/1/1,525037
+Frontier Airlines Inc.,2010,2,1,2010/2/1,528215
+Frontier Airlines Inc.,2010,3,1,2010/3/1,755098
+Frontier Airlines Inc.,2010,4,1,2010/4/1,733140
+Frontier Airlines Inc.,2010,5,1,2010/5/1,802573
+Frontier Airlines Inc.,2010,6,1,2010/6/1,849695
+Frontier Airlines Inc.,2010,7,1,2010/7/1,910776
+Frontier Airlines Inc.,2010,8,1,2010/8/1,873958
+Frontier Airlines Inc.,2010,9,1,2010/9/1,744427
+Frontier Airlines Inc.,2010,10,1,2010/10/1,768167
+Frontier Airlines Inc.,2010,11,1,2010/11/1,695241
+Frontier Airlines Inc.,2010,12,1,2010/12/1,692902
+Frontier Airlines Inc.,2011,1,1,2011/1/1,625380
+Frontier Airlines Inc.,2011,2,1,2011/2/1,592892
+Frontier Airlines Inc.,2011,3,1,2011/3/1,777664
+Frontier Airlines Inc.,2011,4,1,2011/4/1,734956
+Frontier Airlines Inc.,2011,5,1,2011/5/1,881514
+Frontier Airlines Inc.,2011,6,1,2011/6/1,959775
+Frontier Airlines Inc.,2011,7,1,2011/7/1,1024537
+Frontier Airlines Inc.,2011,8,1,2011/8/1,1040779
+Frontier Airlines Inc.,2011,9,1,2011/9/1,923227
+Frontier Airlines Inc.,2011,10,1,2011/10/1,922587
+Frontier Airlines Inc.,2011,11,1,2011/11/1,871830
+Frontier Airlines Inc.,2011,12,1,2011/12/1,863978
+Frontier Airlines Inc.,2012,1,1,2012/1/1,741160
+Frontier Airlines Inc.,2012,2,1,2012/2/1,704766
+Frontier Airlines Inc.,2012,3,1,2012/3/1,816229
+Frontier Airlines Inc.,2012,4,1,2012/4/1,761948
+Frontier Airlines Inc.,2012,5,1,2012/5/1,859387
+Frontier Airlines Inc.,2012,6,1,2012/6/1,915651
+Frontier Airlines Inc.,2012,7,1,2012/7/1,964113
+Frontier Airlines Inc.,2012,8,1,2012/8/1,935721
+Frontier Airlines Inc.,2012,9,1,2012/9/1,803402
+Frontier Airlines Inc.,2012,10,1,2012/10/1,850841
+Frontier Airlines Inc.,2012,11,1,2012/11/1,791900
+Frontier Airlines Inc.,2012,12,1,2012/12/1,799988
+Frontier Airlines Inc.,2013,1,1,2013/1/1,723069
+Frontier Airlines Inc.,2013,2,1,2013/2/1,644217
+Frontier Airlines Inc.,2013,3,1,2013/3/1,750145
+Frontier Airlines Inc.,2013,4,1,2013/4/1,723988
+Frontier Airlines Inc.,2013,5,1,2013/5/1,862000
+Frontier Airlines Inc.,2013,6,1,2013/6/1,887549
+Frontier Airlines Inc.,2013,7,1,2013/7/1,923400
+Frontier Airlines Inc.,2013,8,1,2013/8/1,934662
+Frontier Airlines Inc.,2013,9,1,2013/9/1,866863
+Frontier Airlines Inc.,2013,10,1,2013/10/1,873529
+Frontier Airlines Inc.,2013,11,1,2013/11/1,836588
+Frontier Airlines Inc.,2013,12,1,2013/12/1,865701
+Frontier Airlines Inc.,2014,1,1,2014/1/1,744830
+Frontier Airlines Inc.,2014,2,1,2014/2/1,681175
+Frontier Airlines Inc.,2014,3,1,2014/3/1,812194
+Frontier Airlines Inc.,2014,4,1,2014/4/1,800296
+Frontier Airlines Inc.,2014,5,1,2014/5/1,976807
+Frontier Airlines Inc.,2014,6,1,2014/6/1,1039301
+Frontier Airlines Inc.,2014,7,1,2014/7/1,1110841
+Frontier Airlines Inc.,2014,8,1,2014/8/1,1097382
+Frontier Airlines Inc.,2014,9,1,2014/9/1,1034452
+Frontier Airlines Inc.,2014,10,1,2014/10/1,1057192
+Frontier Airlines Inc.,2014,11,1,2014/11/1,981936
+Frontier Airlines Inc.,2014,12,1,2014/12/1,1021461
+Frontier Airlines Inc.,2015,1,1,2015/1/1,858634
+Frontier Airlines Inc.,2015,2,1,2015/2/1,748777
+Frontier Airlines Inc.,2015,3,1,2015/3/1,907799
+Frontier Airlines Inc.,2015,4,1,2015/4/1,916541
+Frontier Airlines Inc.,2015,5,1,2015/5/1,1059186
+Frontier Airlines Inc.,2015,6,1,2015/6/1,1069752
+Frontier Airlines Inc.,2015,7,1,2015/7/1,1103745
+Frontier Airlines Inc.,2015,8,1,2015/8/1,1075190
+Frontier Airlines Inc.,2015,9,1,2015/9/1,1064497
+Frontier Airlines Inc.,2015,10,1,2015/10/1,1169556
+Frontier Airlines Inc.,2015,11,1,2015/11/1,1104437
+Frontier Airlines Inc.,2015,12,1,2015/12/1,1154191
+Frontier Airlines Inc.,2016,1,1,2016/1/1,999682
+Frontier Airlines Inc.,2016,2,1,2016/2/1,968489
+Frontier Airlines Inc.,2016,3,1,2016/3/1,1043458
+Frontier Airlines Inc.,2016,4,1,2016/4/1,1018794
+Frontier Airlines Inc.,2016,5,1,2016/5/1,1167600
+Frontier Airlines Inc.,2016,6,1,2016/6/1,1234878
+Frontier Airlines Inc.,2016,7,1,2016/7/1,1402105
+Frontier Airlines Inc.,2016,8,1,2016/8/1,1349217
+Frontier Airlines Inc.,2016,9,1,2016/9/1,1275476
+Frontier Airlines Inc.,2016,10,1,2016/10/1,1300188
+Frontier Airlines Inc.,2016,11,1,2016/11/1,1180536
+Frontier Airlines Inc.,2016,12,1,2016/12/1,1164902
+Frontier Airlines Inc.,2017,1,1,2017/1/1,1125268
+Frontier Airlines Inc.,2017,2,1,2017/2/1,1041222
+Frontier Airlines Inc.,2017,3,1,2017/3/1,1252015
+Frontier Airlines Inc.,2017,4,1,2017/4/1,1226476
+Frontier Airlines Inc.,2017,5,1,2017/5/1,1337628
+Frontier Airlines Inc.,2017,6,1,2017/6/1,1421202
+Frontier Airlines Inc.,2017,7,1,2017/7/1,1532220
+Frontier Airlines Inc.,2017,8,1,2017/8/1,1420092
+Frontier Airlines Inc.,2017,9,1,2017/9/1,1251976
+Frontier Airlines Inc.,2017,10,1,2017/10/1,1426373
+Frontier Airlines Inc.,2017,11,1,2017/11/1,1429239
+Frontier Airlines Inc.,2017,12,1,2017/12/1,1506636
+Frontier Airlines Inc.,2018,1,1,2018/1/1,1409902
+Frontier Airlines Inc.,2018,2,1,2018/2/1,1318540
+Frontier Airlines Inc.,2018,3,1,2018/3/1,1522011
+Frontier Airlines Inc.,2018,4,1,2018/4/1,1462819
+Frontier Airlines Inc.,2018,5,1,2018/5/1,1627716
+Frontier Airlines Inc.,2018,6,1,2018/6/1,1643538
+Frontier Airlines Inc.,2018,7,1,2018/7/1,1718913
+Frontier Airlines Inc.,2018,8,1,2018/8/1,1634566
+Frontier Airlines Inc.,2018,9,1,2018/9/1,1537040
+Frontier Airlines Inc.,2018,10,1,2018/10/1,1652365
+Frontier Airlines Inc.,2018,11,1,2018/11/1,1553989
+Frontier Airlines Inc.,2018,12,1,2018/12/1,1587208
+Frontier Airlines Inc.,2019,1,1,2019/1/1,1531366
+Frontier Airlines Inc.,2019,2,1,2019/2/1,1418108
+Frontier Airlines Inc.,2019,3,1,2019/3/1,1637158
+Frontier Airlines Inc.,2019,4,1,2019/4/1,1586729
+Frontier Airlines Inc.,2019,5,1,2019/5/1,1893700
+Frontier Airlines Inc.,2019,6,1,2019/6/1,1950794
+Frontier Airlines Inc.,2019,7,1,2019/7/1,2113070
+Frontier Airlines Inc.,2019,8,1,2019/8/1,2016283
+Frontier Airlines Inc.,2019,9,1,2019/9/1,1796993
+Frontier Airlines Inc.,2019,10,1,2019/10/1,1996858
+Frontier Airlines Inc.,2019,11,1,2019/11/1,1921426
+JetBlue Airways,2005,1,1,2005/1/1,1054428
+JetBlue Airways,2005,2,1,2005/2/1,1012385
+JetBlue Airways,2005,3,1,2005/3/1,1263336
+JetBlue Airways,2005,4,1,2005/4/1,1225898
+JetBlue Airways,2005,5,1,2005/5/1,1187346
+JetBlue Airways,2005,6,1,2005/6/1,1219847
+JetBlue Airways,2005,7,1,2005/7/1,1344966
+JetBlue Airways,2005,8,1,2005/8/1,1329343
+JetBlue Airways,2005,9,1,2005/9/1,1034434
+JetBlue Airways,2005,10,1,2005/10/1,1115026
+JetBlue Airways,2005,11,1,2005/11/1,1276870
+JetBlue Airways,2005,12,1,2005/12/1,1399053
+JetBlue Airways,2006,1,1,2006/1/1,1354604
+JetBlue Airways,2006,2,1,2006/2/1,1295512
+JetBlue Airways,2006,3,1,2006/3/1,1592972
+JetBlue Airways,2006,4,1,2006/4/1,1565206
+JetBlue Airways,2006,5,1,2006/5/1,1385668
+JetBlue Airways,2006,6,1,2006/6/1,1459971
+JetBlue Airways,2006,7,1,2006/7/1,1671123
+JetBlue Airways,2006,8,1,2006/8/1,1678379
+JetBlue Airways,2006,9,1,2006/9/1,1294543
+JetBlue Airways,2006,10,1,2006/10/1,1512825
+JetBlue Airways,2006,11,1,2006/11/1,1596680
+JetBlue Airways,2006,12,1,2006/12/1,1690538
+JetBlue Airways,2007,1,1,2007/1/1,1600180
+JetBlue Airways,2007,2,1,2007/2/1,1435522
+JetBlue Airways,2007,3,1,2007/3/1,1867683
+JetBlue Airways,2007,4,1,2007/4/1,1871106
+JetBlue Airways,2007,5,1,2007/5/1,1758736
+JetBlue Airways,2007,6,1,2007/6/1,1745168
+JetBlue Airways,2007,7,1,2007/7/1,1923201
+JetBlue Airways,2007,8,1,2007/8/1,1926750
+JetBlue Airways,2007,9,1,2007/9/1,1432461
+JetBlue Airways,2007,10,1,2007/10/1,1571677
+JetBlue Airways,2007,11,1,2007/11/1,1669047
+JetBlue Airways,2007,12,1,2007/12/1,1726062
+JetBlue Airways,2008,1,1,2008/1/1,1639370
+JetBlue Airways,2008,2,1,2008/2/1,1617653
+JetBlue Airways,2008,3,1,2008/3/1,1943610
+JetBlue Airways,2008,4,1,2008/4/1,1823912
+JetBlue Airways,2008,5,1,2008/5/1,1699380
+JetBlue Airways,2008,6,1,2008/6/1,1793272
+JetBlue Airways,2008,7,1,2008/7/1,1967667
+JetBlue Airways,2008,8,1,2008/8/1,1956394
+JetBlue Airways,2008,9,1,2008/9/1,1348592
+JetBlue Airways,2008,10,1,2008/10/1,1494997
+JetBlue Airways,2008,11,1,2008/11/1,1537056
+JetBlue Airways,2008,12,1,2008/12/1,1696031
+JetBlue Airways,2009,1,1,2009/1/1,1512870
+JetBlue Airways,2009,2,1,2009/2/1,1468858
+JetBlue Airways,2009,3,1,2009/3/1,1772633
+JetBlue Airways,2009,4,1,2009/4/1,1747015
+JetBlue Airways,2009,5,1,2009/5/1,1646075
+JetBlue Airways,2009,6,1,2009/6/1,1708753
+JetBlue Airways,2009,7,1,2009/7/1,1922565
+JetBlue Airways,2009,8,1,2009/8/1,1919323
+JetBlue Airways,2009,9,1,2009/9/1,1452463
+JetBlue Airways,2009,10,1,2009/10/1,1556998
+JetBlue Airways,2009,11,1,2009/11/1,1578488
+JetBlue Airways,2009,12,1,2009/12/1,1736318
+JetBlue Airways,2010,1,1,2010/1/1,1537295
+JetBlue Airways,2010,2,1,2010/2/1,1436320
+JetBlue Airways,2010,3,1,2010/3/1,1858367
+JetBlue Airways,2010,4,1,2010/4/1,1782058
+JetBlue Airways,2010,5,1,2010/5/1,1729386
+JetBlue Airways,2010,6,1,2010/6/1,1809057
+JetBlue Airways,2010,7,1,2010/7/1,2002980
+JetBlue Airways,2010,8,1,2010/8/1,1986949
+JetBlue Airways,2010,9,1,2010/9/1,1645856
+JetBlue Airways,2010,10,1,2010/10/1,1787867
+JetBlue Airways,2010,11,1,2010/11/1,1779764
+JetBlue Airways,2010,12,1,2010/12/1,1788764
+JetBlue Airways,2011,1,1,2011/1/1,1667209
+JetBlue Airways,2011,2,1,2011/2/1,1596782
+JetBlue Airways,2011,3,1,2011/3/1,2025670
+JetBlue Airways,2011,4,1,2011/4/1,1901695
+JetBlue Airways,2011,5,1,2011/5/1,1923960
+JetBlue Airways,2011,6,1,2011/6/1,1951745
+JetBlue Airways,2011,7,1,2011/7/1,2196017
+JetBlue Airways,2011,8,1,2011/8/1,2063143
+JetBlue Airways,2011,9,1,2011/9/1,1763632
+JetBlue Airways,2011,10,1,2011/10/1,1911570
+JetBlue Airways,2011,11,1,2011/11/1,1931320
+JetBlue Airways,2011,12,1,2011/12/1,2007951
+JetBlue Airways,2012,1,1,2012/1/1,1863646
+JetBlue Airways,2012,2,1,2012/2/1,1831277
+JetBlue Airways,2012,3,1,2012/3/1,2219887
+JetBlue Airways,2012,4,1,2012/4/1,2121516
+JetBlue Airways,2012,5,1,2012/5/1,2061687
+JetBlue Airways,2012,6,1,2012/6/1,2138622
+JetBlue Airways,2012,7,1,2012/7/1,2348297
+JetBlue Airways,2012,8,1,2012/8/1,2350701
+JetBlue Airways,2012,9,1,2012/9/1,1866666
+JetBlue Airways,2012,10,1,2012/10/1,1925619
+JetBlue Airways,2012,11,1,2012/11/1,2032540
+JetBlue Airways,2012,12,1,2012/12/1,2124634
+JetBlue Airways,2013,1,1,2013/1/1,2041238
+JetBlue Airways,2013,2,1,2013/2/1,1852019
+JetBlue Airways,2013,3,1,2013/3/1,2349370
+JetBlue Airways,2013,4,1,2013/4/1,2163700
+JetBlue Airways,2013,5,1,2013/5/1,2205955
+JetBlue Airways,2013,6,1,2013/6/1,2247923
+JetBlue Airways,2013,7,1,2013/7/1,2442024
+JetBlue Airways,2013,8,1,2013/8/1,2424632
+JetBlue Airways,2013,9,1,2013/9/1,1876073
+JetBlue Airways,2013,10,1,2013/10/1,2027721
+JetBlue Airways,2013,11,1,2013/11/1,1973904
+JetBlue Airways,2013,12,1,2013/12/1,2253747
+JetBlue Airways,2014,1,1,2014/1/1,1924931
+JetBlue Airways,2014,2,1,2014/2/1,1856847
+JetBlue Airways,2014,3,1,2014/3/1,2309749
+JetBlue Airways,2014,4,1,2014/4/1,2244870
+JetBlue Airways,2014,5,1,2014/5/1,2273622
+JetBlue Airways,2014,6,1,2014/6/1,2265374
+JetBlue Airways,2014,7,1,2014/7/1,2462573
+JetBlue Airways,2014,8,1,2014/8/1,2500412
+JetBlue Airways,2014,9,1,2014/9/1,1980744
+JetBlue Airways,2014,10,1,2014/10/1,2193453
+JetBlue Airways,2014,11,1,2014/11/1,2127217
+JetBlue Airways,2014,12,1,2014/12/1,2326339
+JetBlue Airways,2015,1,1,2015/1/1,2154909
+JetBlue Airways,2015,2,1,2015/2/1,2014989
+JetBlue Airways,2015,3,1,2015/3/1,2497499
+JetBlue Airways,2015,4,1,2015/4/1,2425859
+JetBlue Airways,2015,5,1,2015/5/1,2473838
+JetBlue Airways,2015,6,1,2015/6/1,2452560
+JetBlue Airways,2015,7,1,2015/7/1,2645339
+JetBlue Airways,2015,8,1,2015/8/1,2607840
+JetBlue Airways,2015,9,1,2015/9/1,2198480
+JetBlue Airways,2015,10,1,2015/10/1,2413819
+JetBlue Airways,2015,11,1,2015/11/1,2394957
+JetBlue Airways,2015,12,1,2015/12/1,2545245
+JetBlue Airways,2016,1,1,2016/1/1,2361374
+JetBlue Airways,2016,2,1,2016/2/1,2344496
+JetBlue Airways,2016,3,1,2016/3/1,2717299
+JetBlue Airways,2016,4,1,2016/4/1,2563377
+JetBlue Airways,2016,5,1,2016/5/1,2700059
+JetBlue Airways,2016,6,1,2016/6/1,2685827
+JetBlue Airways,2016,7,1,2016/7/1,2812217
+JetBlue Airways,2016,8,1,2016/8/1,2778218
+JetBlue Airways,2016,9,1,2016/9/1,2421409
+JetBlue Airways,2016,10,1,2016/10/1,2538473
+JetBlue Airways,2016,11,1,2016/11/1,2602002
+JetBlue Airways,2016,12,1,2016/12/1,2714232
+JetBlue Airways,2017,1,1,2017/1/1,2649102
+JetBlue Airways,2017,2,1,2017/2/1,2383458
+JetBlue Airways,2017,3,1,2017/3/1,2846894
+JetBlue Airways,2017,4,1,2017/4/1,2808967
+JetBlue Airways,2017,5,1,2017/5/1,2800053
+JetBlue Airways,2017,6,1,2017/6/1,2790054
+JetBlue Airways,2017,7,1,2017/7/1,2906813
+JetBlue Airways,2017,8,1,2017/8/1,2883324
+JetBlue Airways,2017,9,1,2017/9/1,2282646
+JetBlue Airways,2017,10,1,2017/10/1,2645810
+JetBlue Airways,2017,11,1,2017/11/1,2636597
+JetBlue Airways,2017,12,1,2017/12/1,2762115
+JetBlue Airways,2018,1,1,2018/1/1,2542390
+JetBlue Airways,2018,2,1,2018/2/1,2512048
+JetBlue Airways,2018,3,1,2018/3/1,2972928
+JetBlue Airways,2018,4,1,2018/4/1,2951238
+JetBlue Airways,2018,5,1,2018/5/1,2995190
+JetBlue Airways,2018,6,1,2018/6/1,2964246
+JetBlue Airways,2018,7,1,2018/7/1,3078555
+JetBlue Airways,2018,8,1,2018/8/1,3045516
+JetBlue Airways,2018,9,1,2018/9/1,2570899
+JetBlue Airways,2018,10,1,2018/10/1,2773261
+JetBlue Airways,2018,11,1,2018/11/1,2751673
+JetBlue Airways,2018,12,1,2018/12/1,2807627
+JetBlue Airways,2019,1,1,2019/1/1,2542011
+JetBlue Airways,2019,2,1,2019/2/1,2496820
+JetBlue Airways,2019,3,1,2019/3/1,3006607
+JetBlue Airways,2019,4,1,2019/4/1,2910881
+JetBlue Airways,2019,5,1,2019/5/1,2937219
+JetBlue Airways,2019,6,1,2019/6/1,2868488
+JetBlue Airways,2019,7,1,2019/7/1,3013644
+JetBlue Airways,2019,8,1,2019/8/1,2943235
+JetBlue Airways,2019,9,1,2019/9/1,2582051
+JetBlue Airways,2019,10,1,2019/10/1,2829931
+JetBlue Airways,2019,11,1,2019/11/1,2755625
+Southwest Airlines Co.,2005,1,1,2005/1/1,6039969
+Southwest Airlines Co.,2005,2,1,2005/2/1,6081794
+Southwest Airlines Co.,2005,3,1,2005/3/1,7673320
+Southwest Airlines Co.,2005,4,1,2005/4/1,7130726
+Southwest Airlines Co.,2005,5,1,2005/5/1,7777541
+Southwest Airlines Co.,2005,6,1,2005/6/1,7881932
+Southwest Airlines Co.,2005,7,1,2005/7/1,8487413
+Southwest Airlines Co.,2005,8,1,2005/8/1,8127955
+Southwest Airlines Co.,2005,9,1,2005/9/1,6991028
+Southwest Airlines Co.,2005,10,1,2005/10/1,7571730
+Southwest Airlines Co.,2005,11,1,2005/11/1,7411621
+Southwest Airlines Co.,2005,12,1,2005/12/1,7260803
+Southwest Airlines Co.,2006,1,1,2006/1/1,6863060
+Southwest Airlines Co.,2006,2,1,2006/2/1,6822077
+Southwest Airlines Co.,2006,3,1,2006/3/1,8343586
+Southwest Airlines Co.,2006,4,1,2006/4/1,8135511
+Southwest Airlines Co.,2006,5,1,2006/5/1,8492972
+Southwest Airlines Co.,2006,6,1,2006/6/1,8691049
+Southwest Airlines Co.,2006,7,1,2006/7/1,8767479
+Southwest Airlines Co.,2006,8,1,2006/8/1,8659803
+Southwest Airlines Co.,2006,9,1,2006/9/1,7464176
+Southwest Airlines Co.,2006,10,1,2006/10/1,8145477
+Southwest Airlines Co.,2006,11,1,2006/11/1,8070523
+Southwest Airlines Co.,2006,12,1,2006/12/1,7874537
+Southwest Airlines Co.,2007,1,1,2007/1/1,7288618
+Southwest Airlines Co.,2007,2,1,2007/2/1,6989449
+Southwest Airlines Co.,2007,3,1,2007/3/1,8635042
+Southwest Airlines Co.,2007,4,1,2007/4/1,8438871
+Southwest Airlines Co.,2007,5,1,2007/5/1,8932038
+Southwest Airlines Co.,2007,6,1,2007/6/1,9526727
+Southwest Airlines Co.,2007,7,1,2007/7/1,9658832
+Southwest Airlines Co.,2007,8,1,2007/8/1,9605342
+Southwest Airlines Co.,2007,9,1,2007/9/1,7981790
+Southwest Airlines Co.,2007,10,1,2007/10/1,8527472
+Southwest Airlines Co.,2007,11,1,2007/11/1,8277258
+Southwest Airlines Co.,2007,12,1,2007/12/1,8086361
+Southwest Airlines Co.,2008,1,1,2008/1/1,7660485
+Southwest Airlines Co.,2008,2,1,2008/2/1,7747320
+Southwest Airlines Co.,2008,3,1,2008/3/1,9316421
+Southwest Airlines Co.,2008,4,1,2008/4/1,8799779
+Southwest Airlines Co.,2008,5,1,2008/5/1,9307439
+Southwest Airlines Co.,2008,6,1,2008/6/1,9455039
+Southwest Airlines Co.,2008,7,1,2008/7/1,9364187
+Southwest Airlines Co.,2008,8,1,2008/8/1,8971990
+Southwest Airlines Co.,2008,9,1,2008/9/1,7354983
+Southwest Airlines Co.,2008,10,1,2008/10/1,8567158
+Southwest Airlines Co.,2008,11,1,2008/11/1,7452214
+Southwest Airlines Co.,2008,12,1,2008/12/1,7968537
+Southwest Airlines Co.,2009,1,1,2009/1/1,6998032
+Southwest Airlines Co.,2009,2,1,2009/2/1,7069327
+Southwest Airlines Co.,2009,3,1,2009/3/1,8992624
+Southwest Airlines Co.,2009,4,1,2009/4/1,8816711
+Southwest Airlines Co.,2009,5,1,2009/5/1,8687517
+Southwest Airlines Co.,2009,6,1,2009/6/1,9007052
+Southwest Airlines Co.,2009,7,1,2009/7/1,9555659
+Southwest Airlines Co.,2009,8,1,2009/8/1,8890924
+Southwest Airlines Co.,2009,9,1,2009/9/1,7954509
+Southwest Airlines Co.,2009,10,1,2009/10/1,8780452
+Southwest Airlines Co.,2009,11,1,2009/11/1,8260792
+Southwest Airlines Co.,2009,12,1,2009/12/1,8360791
+Southwest Airlines Co.,2010,1,1,2010/1/1,7585165
+Southwest Airlines Co.,2010,2,1,2010/2/1,6965045
+Southwest Airlines Co.,2010,3,1,2010/3/1,9159022
+Southwest Airlines Co.,2010,4,1,2010/4/1,8913680
+Southwest Airlines Co.,2010,5,1,2010/5/1,9082703
+Southwest Airlines Co.,2010,6,1,2010/6/1,9563120
+Southwest Airlines Co.,2010,7,1,2010/7/1,10001269
+Southwest Airlines Co.,2010,8,1,2010/8/1,9504071
+Southwest Airlines Co.,2010,9,1,2010/9/1,8314908
+Southwest Airlines Co.,2010,10,1,2010/10/1,9365754
+Southwest Airlines Co.,2010,11,1,2010/11/1,8863274
+Southwest Airlines Co.,2010,12,1,2010/12/1,8952422
+Southwest Airlines Co.,2011,1,1,2011/1/1,8312033
+Southwest Airlines Co.,2011,2,1,2011/2/1,7604711
+Southwest Airlines Co.,2011,3,1,2011/3/1,9694245
+Southwest Airlines Co.,2011,4,1,2011/4/1,9226598
+Southwest Airlines Co.,2011,5,1,2011/5/1,9708725
+Southwest Airlines Co.,2011,6,1,2011/6/1,9925955
+Southwest Airlines Co.,2011,7,1,2011/7/1,10118899
+Southwest Airlines Co.,2011,8,1,2011/8/1,9607787
+Southwest Airlines Co.,2011,9,1,2011/9/1,8754402
+Southwest Airlines Co.,2011,10,1,2011/10/1,9527085
+Southwest Airlines Co.,2011,11,1,2011/11/1,9076317
+Southwest Airlines Co.,2011,12,1,2011/12/1,9067582
+Southwest Airlines Co.,2012,1,1,2012/1/1,8173926
+Southwest Airlines Co.,2012,2,1,2012/2/1,8051869
+Southwest Airlines Co.,2012,3,1,2012/3/1,9750824
+Southwest Airlines Co.,2012,4,1,2012/4/1,9373245
+Southwest Airlines Co.,2012,5,1,2012/5/1,9752951
+Southwest Airlines Co.,2012,6,1,2012/6/1,10100428
+Southwest Airlines Co.,2012,7,1,2012/7/1,10440288
+Southwest Airlines Co.,2012,8,1,2012/8/1,10109554
+Southwest Airlines Co.,2012,9,1,2012/9/1,8713835
+Southwest Airlines Co.,2012,10,1,2012/10/1,9597586
+Southwest Airlines Co.,2012,11,1,2012/11/1,9168778
+Southwest Airlines Co.,2012,12,1,2012/12/1,9043373
+Southwest Airlines Co.,2013,1,1,2013/1/1,8053428
+Southwest Airlines Co.,2013,2,1,2013/2/1,7897964
+Southwest Airlines Co.,2013,3,1,2013/3/1,10254278
+Southwest Airlines Co.,2013,4,1,2013/4/1,9647424
+Southwest Airlines Co.,2013,5,1,2013/5/1,10356918
+Southwest Airlines Co.,2013,6,1,2013/6/1,10503342
+Southwest Airlines Co.,2013,7,1,2013/7/1,10517089
+Southwest Airlines Co.,2013,8,1,2013/8/1,9929985
+Southwest Airlines Co.,2013,9,1,2013/9/1,8900642
+Southwest Airlines Co.,2013,10,1,2013/10/1,9770418
+Southwest Airlines Co.,2013,11,1,2013/11/1,9288755
+Southwest Airlines Co.,2013,12,1,2013/12/1,10256284
+Southwest Airlines Co.,2014,1,1,2014/1/1,8577883
+Southwest Airlines Co.,2014,2,1,2014/2/1,8384739
+Southwest Airlines Co.,2014,3,1,2014/3/1,10951384
+Southwest Airlines Co.,2014,4,1,2014/4/1,10569589
+Southwest Airlines Co.,2014,5,1,2014/5/1,11029837
+Southwest Airlines Co.,2014,6,1,2014/6/1,11508473
+Southwest Airlines Co.,2014,7,1,2014/7/1,11919149
+Southwest Airlines Co.,2014,8,1,2014/8/1,11135659
+Southwest Airlines Co.,2014,9,1,2014/9/1,10031380
+Southwest Airlines Co.,2014,10,1,2014/10/1,10959375
+Southwest Airlines Co.,2014,11,1,2014/11/1,10422175
+Southwest Airlines Co.,2014,12,1,2014/12/1,11256063
+Southwest Airlines Co.,2015,1,1,2015/1/1,9898584
+Southwest Airlines Co.,2015,2,1,2015/2/1,9408036
+Southwest Airlines Co.,2015,3,1,2015/3/1,12360919
+Southwest Airlines Co.,2015,4,1,2015/4/1,12024065
+Southwest Airlines Co.,2015,5,1,2015/5/1,12385001
+Southwest Airlines Co.,2015,6,1,2015/6/1,12697600
+Southwest Airlines Co.,2015,7,1,2015/7/1,13389219
+Southwest Airlines Co.,2015,8,1,2015/8/1,12438071
+Southwest Airlines Co.,2015,9,1,2015/9/1,11431175
+Southwest Airlines Co.,2015,10,1,2015/10/1,12381536
+Southwest Airlines Co.,2015,11,1,2015/11/1,11925053
+Southwest Airlines Co.,2015,12,1,2015/12/1,12130893
+Southwest Airlines Co.,2016,1,1,2016/1/1,10703598
+Southwest Airlines Co.,2016,2,1,2016/2/1,10382857
+Southwest Airlines Co.,2016,3,1,2016/3/1,12866196
+Southwest Airlines Co.,2016,4,1,2016/4/1,12369644
+Southwest Airlines Co.,2016,5,1,2016/5/1,13000864
+Southwest Airlines Co.,2016,6,1,2016/6/1,13336256
+Southwest Airlines Co.,2016,7,1,2016/7/1,13308478
+Southwest Airlines Co.,2016,8,1,2016/8/1,12691548
+Southwest Airlines Co.,2016,9,1,2016/9/1,12142335
+Southwest Airlines Co.,2016,10,1,2016/10/1,12828004
+Southwest Airlines Co.,2016,11,1,2016/11/1,12695956
+Southwest Airlines Co.,2016,12,1,2016/12/1,12553018
+Southwest Airlines Co.,2017,1,1,2017/1/1,11041043
+Southwest Airlines Co.,2017,2,1,2017/2/1,10409532
+Southwest Airlines Co.,2017,3,1,2017/3/1,13272519
+Southwest Airlines Co.,2017,4,1,2017/4/1,13125130
+Southwest Airlines Co.,2017,5,1,2017/5/1,13384226
+Southwest Airlines Co.,2017,6,1,2017/6/1,13876723
+Southwest Airlines Co.,2017,7,1,2017/7/1,14195839
+Southwest Airlines Co.,2017,8,1,2017/8/1,13318461
+Southwest Airlines Co.,2017,9,1,2017/9/1,11736820
+Southwest Airlines Co.,2017,10,1,2017/10/1,13256508
+Southwest Airlines Co.,2017,11,1,2017/11/1,13260621
+Southwest Airlines Co.,2017,12,1,2017/12/1,12981658
+Southwest Airlines Co.,2018,1,1,2018/1/1,11659517
+Southwest Airlines Co.,2018,2,1,2018/2/1,10924425
+Southwest Airlines Co.,2018,3,1,2018/3/1,13903590
+Southwest Airlines Co.,2018,4,1,2018/4/1,13400261
+Southwest Airlines Co.,2018,5,1,2018/5/1,14042935
+Southwest Airlines Co.,2018,6,1,2018/6/1,14255908
+Southwest Airlines Co.,2018,7,1,2018/7/1,14456573
+Southwest Airlines Co.,2018,8,1,2018/8/1,13594850
+Southwest Airlines Co.,2018,9,1,2018/9/1,12239536
+Southwest Airlines Co.,2018,10,1,2018/10/1,13773736
+Southwest Airlines Co.,2018,11,1,2018/11/1,13633112
+Southwest Airlines Co.,2018,12,1,2018/12/1,13212283
+Southwest Airlines Co.,2019,1,1,2019/1/1,11615649
+Southwest Airlines Co.,2019,2,1,2019/2/1,11053905
+Southwest Airlines Co.,2019,3,1,2019/3/1,13992835
+Southwest Airlines Co.,2019,4,1,2019/4/1,13361135
+Southwest Airlines Co.,2019,5,1,2019/5/1,14027165
+Southwest Airlines Co.,2019,6,1,2019/6/1,14003964
+Southwest Airlines Co.,2019,7,1,2019/7/1,14271666
+Southwest Airlines Co.,2019,8,1,2019/8/1,13521140
+Southwest Airlines Co.,2019,9,1,2019/9/1,12398285
+Southwest Airlines Co.,2019,10,1,2019/10/1,13756034
+Southwest Airlines Co.,2019,11,1,2019/11/1,12701731
+Spirit Air Lines,2005,1,1,2005/1/1,378081
+Spirit Air Lines,2005,2,1,2005/2/1,360730
+Spirit Air Lines,2005,3,1,2005/3/1,456232
+Spirit Air Lines,2005,4,1,2005/4/1,404165
+Spirit Air Lines,2005,5,1,2005/5/1,342736
+Spirit Air Lines,2005,6,1,2005/6/1,349505
+Spirit Air Lines,2005,7,1,2005/7/1,404716
+Spirit Air Lines,2005,8,1,2005/8/1,352407
+Spirit Air Lines,2005,9,1,2005/9/1,240118
+Spirit Air Lines,2005,10,1,2005/10/1,249199
+Spirit Air Lines,2005,11,1,2005/11/1,260634
+Spirit Air Lines,2005,12,1,2005/12/1,281691
+Spirit Air Lines,2006,1,1,2006/1/1,328131
+Spirit Air Lines,2006,2,1,2006/2/1,300525
+Spirit Air Lines,2006,3,1,2006/3/1,383690
+Spirit Air Lines,2006,4,1,2006/4/1,353036
+Spirit Air Lines,2006,5,1,2006/5/1,298519
+Spirit Air Lines,2006,6,1,2006/6/1,344519
+Spirit Air Lines,2006,7,1,2006/7/1,359515
+Spirit Air Lines,2006,8,1,2006/8/1,337184
+Spirit Air Lines,2006,9,1,2006/9/1,265409
+Spirit Air Lines,2006,10,1,2006/10/1,293465
+Spirit Air Lines,2006,11,1,2006/11/1,319951
+Spirit Air Lines,2006,12,1,2006/12/1,209128
+Spirit Air Lines,2007,1,1,2007/1/1,380495
+Spirit Air Lines,2007,2,1,2007/2/1,438022
+Spirit Air Lines,2007,3,1,2007/3/1,533332
+Spirit Air Lines,2007,4,1,2007/4/1,511939
+Spirit Air Lines,2007,5,1,2007/5/1,457036
+Spirit Air Lines,2007,6,1,2007/6/1,499772
+Spirit Air Lines,2007,7,1,2007/7/1,556790
+Spirit Air Lines,2007,8,1,2007/8/1,507029
+Spirit Air Lines,2007,9,1,2007/9/1,389232
+Spirit Air Lines,2007,10,1,2007/10/1,438681
+Spirit Air Lines,2007,11,1,2007/11/1,444498
+Spirit Air Lines,2007,12,1,2007/12/1,466349
+Spirit Air Lines,2008,1,1,2008/1/1,454310
+Spirit Air Lines,2008,2,1,2008/2/1,453184
+Spirit Air Lines,2008,3,1,2008/3/1,529552
+Spirit Air Lines,2008,4,1,2008/4/1,482345
+Spirit Air Lines,2008,5,1,2008/5/1,503269
+Spirit Air Lines,2008,6,1,2008/6/1,502788
+Spirit Air Lines,2008,7,1,2008/7/1,546480
+Spirit Air Lines,2008,8,1,2008/8/1,464933
+Spirit Air Lines,2008,9,1,2008/9/1,356113
+Spirit Air Lines,2008,10,1,2008/10/1,397269
+Spirit Air Lines,2008,11,1,2008/11/1,395115
+Spirit Air Lines,2008,12,1,2008/12/1,415403
+Spirit Air Lines,2009,1,1,2009/1/1,382422
+Spirit Air Lines,2009,2,1,2009/2/1,363498
+Spirit Air Lines,2009,3,1,2009/3/1,436142
+Spirit Air Lines,2009,4,1,2009/4/1,425922
+Spirit Air Lines,2009,5,1,2009/5/1,409829
+Spirit Air Lines,2009,6,1,2009/6/1,426890
+Spirit Air Lines,2009,7,1,2009/7/1,468446
+Spirit Air Lines,2009,8,1,2009/8/1,444325
+Spirit Air Lines,2009,9,1,2009/9/1,375165
+Spirit Air Lines,2009,10,1,2009/10/1,403339
+Spirit Air Lines,2009,11,1,2009/11/1,403710
+Spirit Air Lines,2009,12,1,2009/12/1,414112
+Spirit Air Lines,2010,1,1,2010/1/1,403283
+Spirit Air Lines,2010,2,1,2010/2/1,351647
+Spirit Air Lines,2010,3,1,2010/3/1,470245
+Spirit Air Lines,2010,4,1,2010/4/1,476774
+Spirit Air Lines,2010,5,1,2010/5/1,476546
+Spirit Air Lines,2010,6,1,2010/6/1,353742
+Spirit Air Lines,2010,7,1,2010/7/1,530790
+Spirit Air Lines,2010,8,1,2010/8/1,522554
+Spirit Air Lines,2010,9,1,2010/9/1,441425
+Spirit Air Lines,2010,10,1,2010/10/1,517511
+Spirit Air Lines,2010,11,1,2010/11/1,503730
+Spirit Air Lines,2010,12,1,2010/12/1,475516
+Spirit Air Lines,2011,1,1,2011/1/1,471039
+Spirit Air Lines,2011,2,1,2011/2/1,437026
+Spirit Air Lines,2011,3,1,2011/3/1,581912
+Spirit Air Lines,2011,4,1,2011/4/1,574842
+Spirit Air Lines,2011,5,1,2011/5/1,618402
+Spirit Air Lines,2011,6,1,2011/6/1,607230
+Spirit Air Lines,2011,7,1,2011/7/1,675543
+Spirit Air Lines,2011,8,1,2011/8/1,626818
+Spirit Air Lines,2011,9,1,2011/9/1,541657
+Spirit Air Lines,2011,10,1,2011/10/1,610184
+Spirit Air Lines,2011,11,1,2011/11/1,603763
+Spirit Air Lines,2011,12,1,2011/12/1,625089
+Spirit Air Lines,2012,1,1,2012/1/1,608032
+Spirit Air Lines,2012,2,1,2012/2/1,623388
+Spirit Air Lines,2012,3,1,2012/3/1,767831
+Spirit Air Lines,2012,4,1,2012/4/1,726687
+Spirit Air Lines,2012,5,1,2012/5/1,731405
+Spirit Air Lines,2012,6,1,2012/6/1,772320
+Spirit Air Lines,2012,7,1,2012/7/1,846214
+Spirit Air Lines,2012,8,1,2012/8/1,823312
+Spirit Air Lines,2012,9,1,2012/9/1,723807
+Spirit Air Lines,2012,10,1,2012/10/1,755742
+Spirit Air Lines,2012,11,1,2012/11/1,756915
+Spirit Air Lines,2012,12,1,2012/12/1,793111
+Spirit Air Lines,2013,1,1,2013/1/1,767073
+Spirit Air Lines,2013,2,1,2013/2/1,730279
+Spirit Air Lines,2013,3,1,2013/3/1,909574
+Spirit Air Lines,2013,4,1,2013/4/1,844682
+Spirit Air Lines,2013,5,1,2013/5/1,920899
+Spirit Air Lines,2013,6,1,2013/6/1,918791
+Spirit Air Lines,2013,7,1,2013/7/1,1021216
+Spirit Air Lines,2013,8,1,2013/8/1,1017151
+Spirit Air Lines,2013,9,1,2013/9/1,873363
+Spirit Air Lines,2013,10,1,2013/10/1,920225
+Spirit Air Lines,2013,11,1,2013/11/1,903503
+Spirit Air Lines,2013,12,1,2013/12/1,968956
+Spirit Air Lines,2014,1,1,2014/1/1,937464
+Spirit Air Lines,2014,2,1,2014/2/1,877832
+Spirit Air Lines,2014,3,1,2014/3/1,1043329
+Spirit Air Lines,2014,4,1,2014/4/1,986755
+Spirit Air Lines,2014,5,1,2014/5/1,1053674
+Spirit Air Lines,2014,6,1,2014/6/1,1056558
+Spirit Air Lines,2014,7,1,2014/7/1,1120701
+Spirit Air Lines,2014,8,1,2014/8/1,1154082
+Spirit Air Lines,2014,9,1,2014/9/1,1005070
+Spirit Air Lines,2014,10,1,2014/10/1,1099765
+Spirit Air Lines,2014,11,1,2014/11/1,1072232
+Spirit Air Lines,2014,12,1,2014/12/1,1152715
+Spirit Air Lines,2015,1,1,2015/1/1,1140750
+Spirit Air Lines,2015,2,1,2015/2/1,1087853
+Spirit Air Lines,2015,3,1,2015/3/1,1319696
+Spirit Air Lines,2015,4,1,2015/4/1,1286498
+Spirit Air Lines,2015,5,1,2015/5/1,1383053
+Spirit Air Lines,2015,6,1,2015/6/1,1321721
+Spirit Air Lines,2015,7,1,2015/7/1,1471437
+Spirit Air Lines,2015,8,1,2015/8/1,1438751
+Spirit Air Lines,2015,9,1,2015/9/1,1305703
+Spirit Air Lines,2015,10,1,2015/10/1,1407825
+Spirit Air Lines,2015,11,1,2015/11/1,1369103
+Spirit Air Lines,2015,12,1,2015/12/1,1450001
+Spirit Air Lines,2016,1,1,2016/1/1,1449416
+Spirit Air Lines,2016,2,1,2016/2/1,1405753
+Spirit Air Lines,2016,3,1,2016/3/1,1649161
+Spirit Air Lines,2016,4,1,2016/4/1,1567748
+Spirit Air Lines,2016,5,1,2016/5/1,1536304
+Spirit Air Lines,2016,6,1,2016/6/1,1686495
+Spirit Air Lines,2016,7,1,2016/7/1,1788324
+Spirit Air Lines,2016,8,1,2016/8/1,1737164
+Spirit Air Lines,2016,9,1,2016/9/1,1517749
+Spirit Air Lines,2016,10,1,2016/10/1,1576626
+Spirit Air Lines,2016,11,1,2016/11/1,1599885
+Spirit Air Lines,2016,12,1,2016/12/1,1668424
+Spirit Air Lines,2017,1,1,2017/1/1,1620115
+Spirit Air Lines,2017,2,1,2017/2/1,1578845
+Spirit Air Lines,2017,3,1,2017/3/1,1881321
+Spirit Air Lines,2017,4,1,2017/4/1,1789723
+Spirit Air Lines,2017,5,1,2017/5/1,1864844
+Spirit Air Lines,2017,6,1,2017/6/1,1938607
+Spirit Air Lines,2017,7,1,2017/7/1,2058700
+Spirit Air Lines,2017,8,1,2017/8/1,2056677
+Spirit Air Lines,2017,9,1,2017/9/1,1606774
+Spirit Air Lines,2017,10,1,2017/10/1,1905738
+Spirit Air Lines,2017,11,1,2017/11/1,1822329
+Spirit Air Lines,2017,12,1,2017/12/1,1847600
+Spirit Air Lines,2018,1,1,2018/1/1,1805542
+Spirit Air Lines,2018,2,1,2018/2/1,1845812
+Spirit Air Lines,2018,3,1,2018/3/1,2282932
+Spirit Air Lines,2018,4,1,2018/4/1,2121765
+Spirit Air Lines,2018,5,1,2018/5/1,2255978
+Spirit Air Lines,2018,6,1,2018/6/1,2377444
+Spirit Air Lines,2018,7,1,2018/7/1,2514193
+Spirit Air Lines,2018,8,1,2018/8/1,2485456
+Spirit Air Lines,2018,9,1,2018/9/1,2044766
+Spirit Air Lines,2018,10,1,2018/10/1,2130047
+Spirit Air Lines,2018,11,1,2018/11/1,2188782
+Spirit Air Lines,2018,12,1,2018/12/1,2266452
+Spirit Air Lines,2019,1,1,2019/1/1,2114885
+Spirit Air Lines,2019,2,1,2019/2/1,2072328
+Spirit Air Lines,2019,3,1,2019/3/1,2727267
+Spirit Air Lines,2019,4,1,2019/4/1,2479891
+Spirit Air Lines,2019,5,1,2019/5/1,2728493
+Spirit Air Lines,2019,6,1,2019/6/1,2724474
+Spirit Air Lines,2019,7,1,2019/7/1,2895837
+Spirit Air Lines,2019,8,1,2019/8/1,2801628
+Spirit Air Lines,2019,9,1,2019/9/1,2305713
+Spirit Air Lines,2019,10,1,2019/10/1,2606419
+Spirit Air Lines,2019,11,1,2019/11/1,2583612
+United Air Lines Inc.,2005,1,1,2005/1/1,4230721
+United Air Lines Inc.,2005,2,1,2005/2/1,3907296
+United Air Lines Inc.,2005,3,1,2005/3/1,4726521
+United Air Lines Inc.,2005,4,1,2005/4/1,4386440
+United Air Lines Inc.,2005,5,1,2005/5/1,4749422
+United Air Lines Inc.,2005,6,1,2005/6/1,5052857
+United Air Lines Inc.,2005,7,1,2005/7/1,5113840
+United Air Lines Inc.,2005,8,1,2005/8/1,4966662
+United Air Lines Inc.,2005,9,1,2005/9/1,4340049
+United Air Lines Inc.,2005,10,1,2005/10/1,4612307
+United Air Lines Inc.,2005,11,1,2005/11/1,4467668
+United Air Lines Inc.,2005,12,1,2005/12/1,4618922
+United Air Lines Inc.,2006,1,1,2006/1/1,4287578
+United Air Lines Inc.,2006,2,1,2006/2/1,4113792
+United Air Lines Inc.,2006,3,1,2006/3/1,5008761
+United Air Lines Inc.,2006,4,1,2006/4/1,4836933
+United Air Lines Inc.,2006,5,1,2006/5/1,5030841
+United Air Lines Inc.,2006,6,1,2006/6/1,5228733
+United Air Lines Inc.,2006,7,1,2006/7/1,5333649
+United Air Lines Inc.,2006,8,1,2006/8/1,5095322
+United Air Lines Inc.,2006,9,1,2006/9/1,4463388
+United Air Lines Inc.,2006,10,1,2006/10/1,4829691
+United Air Lines Inc.,2006,11,1,2006/11/1,4541961
+United Air Lines Inc.,2006,12,1,2006/12/1,4458425
+United Air Lines Inc.,2007,1,1,2007/1/1,4365192
+United Air Lines Inc.,2007,2,1,2007/2/1,4057863
+United Air Lines Inc.,2007,3,1,2007/3/1,5089148
+United Air Lines Inc.,2007,4,1,2007/4/1,4922191
+United Air Lines Inc.,2007,5,1,2007/5/1,5048094
+United Air Lines Inc.,2007,6,1,2007/6/1,5136671
+United Air Lines Inc.,2007,7,1,2007/7/1,5166428
+United Air Lines Inc.,2007,8,1,2007/8/1,5160630
+United Air Lines Inc.,2007,9,1,2007/9/1,4300387
+United Air Lines Inc.,2007,10,1,2007/10/1,4689598
+United Air Lines Inc.,2007,11,1,2007/11/1,4347948
+United Air Lines Inc.,2007,12,1,2007/12/1,4136001
+United Air Lines Inc.,2008,1,1,2008/1/1,3817070
+United Air Lines Inc.,2008,2,1,2008/2/1,3854879
+United Air Lines Inc.,2008,3,1,2008/3/1,4697023
+United Air Lines Inc.,2008,4,1,2008/4/1,4472300
+United Air Lines Inc.,2008,5,1,2008/5/1,4651953
+United Air Lines Inc.,2008,6,1,2008/6/1,4862851
+United Air Lines Inc.,2008,7,1,2008/7/1,4905652
+United Air Lines Inc.,2008,8,1,2008/8/1,4856833
+United Air Lines Inc.,2008,9,1,2008/9/1,3976799
+United Air Lines Inc.,2008,10,1,2008/10/1,4248665
+United Air Lines Inc.,2008,11,1,2008/11/1,3553558
+United Air Lines Inc.,2008,12,1,2008/12/1,3783462
+United Air Lines Inc.,2009,1,1,2009/1/1,3379525
+United Air Lines Inc.,2009,2,1,2009/2/1,3260853
+United Air Lines Inc.,2009,3,1,2009/3/1,4083683
+United Air Lines Inc.,2009,4,1,2009/4/1,3835673
+United Air Lines Inc.,2009,5,1,2009/5/1,3906303
+United Air Lines Inc.,2009,6,1,2009/6/1,4214121
+United Air Lines Inc.,2009,7,1,2009/7/1,4400581
+United Air Lines Inc.,2009,8,1,2009/8/1,4291291
+United Air Lines Inc.,2009,9,1,2009/9/1,3557180
+United Air Lines Inc.,2009,10,1,2009/10/1,3807022
+United Air Lines Inc.,2009,11,1,2009/11/1,3371378
+United Air Lines Inc.,2009,12,1,2009/12/1,3475060
+United Air Lines Inc.,2010,1,1,2010/1/1,3257443
+United Air Lines Inc.,2010,2,1,2010/2/1,2998427
+United Air Lines Inc.,2010,3,1,2010/3/1,3782032
+United Air Lines Inc.,2010,4,1,2010/4/1,3595057
+United Air Lines Inc.,2010,5,1,2010/5/1,3725320
+United Air Lines Inc.,2010,6,1,2010/6/1,3925017
+United Air Lines Inc.,2010,7,1,2010/7/1,4020061
+United Air Lines Inc.,2010,8,1,2010/8/1,4032892
+United Air Lines Inc.,2010,9,1,2010/9/1,3501797
+United Air Lines Inc.,2010,10,1,2010/10/1,3756688
+United Air Lines Inc.,2010,11,1,2010/11/1,3398454
+United Air Lines Inc.,2010,12,1,2010/12/1,3329613
+United Air Lines Inc.,2011,1,1,2011/1/1,3012841
+United Air Lines Inc.,2011,2,1,2011/2/1,2809895
+United Air Lines Inc.,2011,3,1,2011/3/1,3450002
+United Air Lines Inc.,2011,4,1,2011/4/1,3230678
+United Air Lines Inc.,2011,5,1,2011/5/1,3383187
+United Air Lines Inc.,2011,6,1,2011/6/1,3664750
+United Air Lines Inc.,2011,7,1,2011/7/1,3823480
+United Air Lines Inc.,2011,8,1,2011/8/1,3718856
+United Air Lines Inc.,2011,9,1,2011/9/1,3176498
+United Air Lines Inc.,2011,10,1,2011/10/1,3273748
+United Air Lines Inc.,2011,11,1,2011/11/1,2955758
+United Air Lines Inc.,2011,12,1,2011/12/1,3051324
+United Air Lines Inc.,2012,1,1,2012/1/1,4988564
+United Air Lines Inc.,2012,2,1,2012/2/1,4921042
+United Air Lines Inc.,2012,3,1,2012/3/1,5952399
+United Air Lines Inc.,2012,4,1,2012/4/1,5761602
+United Air Lines Inc.,2012,5,1,2012/5/1,5912575
+United Air Lines Inc.,2012,6,1,2012/6/1,6188615
+United Air Lines Inc.,2012,7,1,2012/7/1,6329099
+United Air Lines Inc.,2012,8,1,2012/8/1,6296509
+United Air Lines Inc.,2012,9,1,2012/9/1,5271258
+United Air Lines Inc.,2012,10,1,2012/10/1,5526272
+United Air Lines Inc.,2012,11,1,2012/11/1,5221915
+United Air Lines Inc.,2012,12,1,2012/12/1,5258843
+United Air Lines Inc.,2013,1,1,2013/1/1,4956315
+United Air Lines Inc.,2013,2,1,2013/2/1,4687619
+United Air Lines Inc.,2013,3,1,2013/3/1,5706450
+United Air Lines Inc.,2013,4,1,2013/4/1,5269667
+United Air Lines Inc.,2013,5,1,2013/5/1,5623235
+United Air Lines Inc.,2013,6,1,2013/6/1,5839523
+United Air Lines Inc.,2013,7,1,2013/7/1,5903376
+United Air Lines Inc.,2013,8,1,2013/8/1,5916625
+United Air Lines Inc.,2013,9,1,2013/9/1,5114705
+United Air Lines Inc.,2013,10,1,2013/10/1,5543325
+United Air Lines Inc.,2013,11,1,2013/11/1,5140660
+United Air Lines Inc.,2013,12,1,2013/12/1,5519034
+United Air Lines Inc.,2014,1,1,2014/1/1,4791509
+United Air Lines Inc.,2014,2,1,2014/2/1,4567285
+United Air Lines Inc.,2014,3,1,2014/3/1,5647678
+United Air Lines Inc.,2014,4,1,2014/4/1,5268368
+United Air Lines Inc.,2014,5,1,2014/5/1,5680915
+United Air Lines Inc.,2014,6,1,2014/6/1,5787315
+United Air Lines Inc.,2014,7,1,2014/7/1,5931930
+United Air Lines Inc.,2014,8,1,2014/8/1,5865754
+United Air Lines Inc.,2014,9,1,2014/9/1,5184855
+United Air Lines Inc.,2014,10,1,2014/10/1,5626538
+United Air Lines Inc.,2014,11,1,2014/11/1,5079903
+United Air Lines Inc.,2014,12,1,2014/12/1,5364294
+United Air Lines Inc.,2015,1,1,2015/1/1,4809406
+United Air Lines Inc.,2015,2,1,2015/2/1,4608905
+United Air Lines Inc.,2015,3,1,2015/3/1,5778934
+United Air Lines Inc.,2015,4,1,2015/4/1,5516740
+United Air Lines Inc.,2015,5,1,2015/5/1,5988983
+United Air Lines Inc.,2015,6,1,2015/6/1,6237178
+United Air Lines Inc.,2015,7,1,2015/7/1,6455642
+United Air Lines Inc.,2015,8,1,2015/8/1,6286454
+United Air Lines Inc.,2015,9,1,2015/9/1,5679405
+United Air Lines Inc.,2015,10,1,2015/10/1,6356479
+United Air Lines Inc.,2015,11,1,2015/11/1,5760794
+United Air Lines Inc.,2015,12,1,2015/12/1,5831140
+United Air Lines Inc.,2016,1,1,2016/1/1,5061289
+United Air Lines Inc.,2016,2,1,2016/2/1,4974819
+United Air Lines Inc.,2016,3,1,2016/3/1,5924914
+United Air Lines Inc.,2016,4,1,2016/4/1,5734749
+United Air Lines Inc.,2016,5,1,2016/5/1,6298416
+United Air Lines Inc.,2016,6,1,2016/6/1,6597832
+United Air Lines Inc.,2016,7,1,2016/7/1,6772383
+United Air Lines Inc.,2016,8,1,2016/8/1,6801559
+United Air Lines Inc.,2016,9,1,2016/9/1,6362064
+United Air Lines Inc.,2016,10,1,2016/10/1,6815894
+United Air Lines Inc.,2016,11,1,2016/11/1,6319758
+United Air Lines Inc.,2016,12,1,2016/12/1,6252924
+United Air Lines Inc.,2017,1,1,2017/1/1,5581700
+United Air Lines Inc.,2017,2,1,2017/2/1,5255347
+United Air Lines Inc.,2017,3,1,2017/3/1,6714230
+United Air Lines Inc.,2017,4,1,2017/4/1,6482649
+United Air Lines Inc.,2017,5,1,2017/5/1,6918307
+United Air Lines Inc.,2017,6,1,2017/6/1,7413121
+United Air Lines Inc.,2017,7,1,2017/7/1,7684035
+United Air Lines Inc.,2017,8,1,2017/8/1,7416742
+United Air Lines Inc.,2017,9,1,2017/9/1,6389754
+United Air Lines Inc.,2017,10,1,2017/10/1,7126345
+United Air Lines Inc.,2017,11,1,2017/11/1,6821380
+United Air Lines Inc.,2017,12,1,2017/12/1,6750677
+United Air Lines Inc.,2018,1,1,2018/1/1,5767184
+United Air Lines Inc.,2018,2,1,2018/2/1,5501386
+United Air Lines Inc.,2018,3,1,2018/3/1,6911085
+United Air Lines Inc.,2018,4,1,2018/4/1,7001351
+United Air Lines Inc.,2018,5,1,2018/5/1,7420937
+United Air Lines Inc.,2018,6,1,2018/6/1,7957504
+United Air Lines Inc.,2018,7,1,2018/7/1,8363136
+United Air Lines Inc.,2018,8,1,2018/8/1,8137682
+United Air Lines Inc.,2018,9,1,2018/9/1,6982074
+United Air Lines Inc.,2018,10,1,2018/10/1,7680076
+United Air Lines Inc.,2018,11,1,2018/11/1,7219435
+United Air Lines Inc.,2018,12,1,2018/12/1,7065167
+United Air Lines Inc.,2019,1,1,2019/1/1,6077095
+United Air Lines Inc.,2019,2,1,2019/2/1,5802648
+United Air Lines Inc.,2019,3,1,2019/3/1,7546762
+United Air Lines Inc.,2019,4,1,2019/4/1,7349535
+United Air Lines Inc.,2019,5,1,2019/5/1,7777506
+United Air Lines Inc.,2019,6,1,2019/6/1,8073204
+United Air Lines Inc.,2019,7,1,2019/7/1,8345475
+United Air Lines Inc.,2019,8,1,2019/8/1,8002440
+United Air Lines Inc.,2019,9,1,2019/9/1,6867783
+United Air Lines Inc.,2019,10,1,2019/10/1,7562636
+United Air Lines Inc.,2019,11,1,2019/11/1,6800650
