@@ -9,7 +9,7 @@
 **A**: Reading documentation, as with most coding, is honestly the best place to get intimately familiar. But, also as with most coding, the second best way is to just start by doing. I'm hoping that this repository eases your transition to "just doing" or maybe shows a technique that you may not have known previously.
 
 ### Q: So what's contained in this repo?
-**A**: Ah, here we come to the crux of the subject. The following jupyter notebooks (which can render completely in GitHub in your browsers) are included currently:
+**A**: Ah, here we come to the crux of the subject. Using completely public or synthetic data, I've built a set of notebooks that span a range of topics in Python data viz, from fundamentals to different graph types to building complex objects like ridge plots. The following jupyter notebooks (which can render completely in GitHub in your browsers) are included currently:
 - Part 1 Key Principles: Fundamentals and best practices of data visualization using Matplotlib, Python's ground level data viz library
 - Part 2 Archtypes of Viz: Creating various different data viz archetypes and discussing use cases
 - Part 3 Analytics Viz: Demonstrating the incorporation of data viz as part of the scientific/research process
