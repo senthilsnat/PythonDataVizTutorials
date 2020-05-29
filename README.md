@@ -21,4 +21,4 @@
 - Advanced 3rd Party Packages, showing usage examples of powerful 3rd party data viz packages like Plotly and Altair
 
 ### Q: Contact me with feedback!
-**A**: So this is not really a question, but please reach out if you have any feedback. I can be found on Twitter [@SENTHIS](https://twitter.com/SENTH1S).
+**A**: So this is not really a question, but please reach out if you have any feedback or have any requests/ideas/inspiration. I can be found on Twitter [@SENTHIS](https://twitter.com/SENTH1S).
