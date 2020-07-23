@@ -15,6 +15,9 @@
 - Part 3 Analytics Viz: Demonstrating the incorporation of data viz as part of the scientific/research process
 - Part 4 Complex Viz Manipulation: Techniques for manipulating our fundamental viz templates to create some more complex data viz and data viz systems
 
+### Q: I'm not able to preview the dynamic graphs or interactive modules in Github. What do I do?
+**A**: You could always clone the repo, but if you want to see the entire rendered notebook, I recommend using NBViewer, which, unlike Github's preview interface, will display JS and rich graphs.
+
 ### Q: What's still to come?
 **A**: This repo is a living destination, and I consider it to be perpetually a work in progress, as I continue learning and get new inspiration. With that said, there's still some more notebooks that I'm building out already:
 - Interactive visualizations, showing how to build animations as well as interactive controls inside a jupyter notebook
