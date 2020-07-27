@@ -6,3 +6,5 @@
 - nbaallelo: A dataset containing historical ELO ratings for NBA teams, courtesy of 538, sourced from their GitHub repo (source: https://github.com/fivethirtyeight/data/tree/master/nba-elo)
 - pels_lineup_sample_201920: A sample of lineup data that shows the total scoring and possessions played by each 5 man lineup for the New Orleans Pelicans a little ways into the 2019-20 NBA Season (source: NBA Stats Lineup Data)
 - kc_house_data: a sample of house sale prices for King County (inlcudes Seattle), for homes sold between May 2014 and May 2015 (source: https://www.kaggle.com/harlfoxem/housesalesprediction/data)
+- scoring_sample_tm1 and scoring_sample_tm2: Datasets created from old NBA play-by-play data that took all the scoring contributions by players from two NBA teams and converted them into distributions of scoring between positions (Guards, Bigs, Forwards) for each game
+- censuses: Transformed datasets sourced from the US Govt Census website. These datasets show probabilities calculated using census methodology of recorded last names belonging to certain major ethnic classifications and the count of those names in the census.
