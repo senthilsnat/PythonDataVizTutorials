@@ -1,0 +1,52 @@
+#########################################################################
+# Most of these are attributes that we've already become familiar with, 
+# just with different nomenclature for configurations
+#########################################################################
+
+# Styling Figure Level Attributes
+figure.figsize: 12, 6
+figure.facecolor: white
+
+# Styling Legend
+legend.loc: upper right
+legend.framealpha: 0.8
+legend.fontsize: 10
+legend.labelspacing: 0.3
+
+# Styling Lines
+lines.linewidth: 1.5
+
+# Styling Axes
+axes.prop_cycle: cycler('color', ['1dd1a1', 'ffc048', 'eb4d4b', '686de0'])
+
+axes.labelsize: 9
+axes.labelcolor: gray
+axes.labelpad: 6
+
+axes.titlesize: 20
+axes.titleweight: bold
+axes.titlelocation: left
+axes.titlecolor: gray
+axes.titlepad: 10
+
+axes.spines.left: True
+axes.spines.bottom: True
+axes.spines.right: False
+axes.spines.top: False
+
+# Styling Ticks
+xtick.top: False
+xtick.bottom: False
+ytick.left: False
+ytick.right: False
+xtick.labelsize: 10
+ytick.labelsize: 10
+xtick.color: black
+ytick.color: black
+
+# Styling Grid
+axes.grid: True
+grid.color: D3D3D3
+grid.linestyle: -
+grid.linewidth: 0.75
+grid.alpha: 0.3
