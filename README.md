@@ -7,6 +7,8 @@
 --------
 ### Newly Updated!
 - **Advanced Packages**: While Seaborn and Matplotlib can get you fairly far, features like interactivity or unique chart types can be lacking. However, there are some really powerful other 3rd party packages out there in the Python ecosystem. In this notebook, I'll take a little bit of time to discuss these packages, show how to get familiar with the syntax, and show some unique examples highlighting the capabilities of each package.
+- **Style Sheets**: The default Matplotlib styling can be a great source of consternation, and everybody will have their own unique styles and needs. However, it can be tedious to write the same repetitive code over and over to customize each graphic. Fortunately, we can pretty easily customize persistent configurations for our graphs, and I'll demonstrate the various ways of doing so in this notebook.
+
 --------
 ### Q: So what's the best way to learn data visualization in Python?
 **A**: Reading documentation, as with most coding, is honestly the best place to get intimately familiar. But, also as with most coding, the second best way is to just start by doing. I'm hoping that this repository eases your transition to "just doing" or maybe shows a technique that you may not have known previously. What really works for me is just taking examples that I find in the docs for a library and then googling/reading documentation as I manipulate every aspect of the example until I'm satisfied with the variety of outputs. What also works for me is creating this repo so I don't forget the things that I've learned....
@@ -17,6 +19,7 @@
 - Part 2 Archtypes of Viz: Creating various different data viz archetypes and discussing use cases
 - Part 3 Analytics Viz: Demonstrating the incorporation of data viz as part of the scientific/research process
 - Part 4 Complex Viz Manipulation: Techniques for manipulating our fundamental viz templates to create some more complex data viz and data viz systems
+- Part 5 Style Sheets: Methods for setting up graph styling customizations that will persist through your notebook or script
 - Part 6 Advanced 3rd Party Packages: Introducing and discussing powerful packages to extend our data visualization capabilities in Python
 
 ### Q: I'm not able to preview the dynamic graphs or interactive modules in Github. What do I do?
@@ -25,7 +28,6 @@
 ### Q: What's still to come?
 **A**: This repo is a living destination, and I consider it to be perpetually a work in progress, as I continue learning and get new inspiration. With that said, there's still some more notebooks that I'm building out already:
 - Interactive visualizations, showing how to build animations as well as interactive controls inside a jupyter notebook
-- Setting custom style sheets so that we don't have to write the same repetitive code each time we want to customize our graphs
 
 ### Q: Contact me with feedback!
 **A**: So this is not really a question, but please reach out if you have any feedback or have any requests/ideas/inspiration. I can be found on Twitter [@SENTHIS](https://twitter.com/SENTH1S).
